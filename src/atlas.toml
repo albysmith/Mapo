@@ -1,0 +1,287 @@
+[[maps]]
+name = "Jungle Valley"
+region = "Lex Proxima"
+tier = [1, 4, 8, 10, 14]
+connections = [
+    ["Fields", "Underground Sea", "Mausoleum"], 
+    ["Fields", "Underground Sea", "Mausoleum"], 
+    ["Fields", "Underground Sea", "Mausoleum"],
+    ["Fields", "Underground Sea", "Mausoleum"],
+    ["Fields", "Ivory Temple", "Arid Lake", "Mausoleum"]
+    ]
+    
+[[maps]]
+name = "Haunted Mansion"
+region = "Lex Proxima"
+tier = [2, 5, 9, 11, 14]
+connections = [
+    [],
+    [],
+    [],
+    [],
+    []
+]
+
+[[maps]]
+name = "Mausoleum"
+region = "Lex Proxima"
+tier = [2, 5, 9, 11, 14]
+connections = [
+    [],
+    [],
+    [],
+    [],
+    []
+]
+
+[[maps]]
+name = "Fields"
+region = "Lex Proxima"
+tier = [2, 5, 9, 11, 14]
+connections = [
+    [],
+    [],
+    [],
+    [],
+    []
+]
+
+[[maps]]
+name = "Ashen Wood"
+region = "Lex Proxima"
+tier = [2, 6, 9, 11, 14]
+connections = [
+    [],
+    [],
+    [],
+    [],
+    []
+]
+
+[[maps]]
+name = "Underground Sea"
+region = "Lex Proxima"
+tier = [2, 6, 9, 11, 14]
+connections = [
+    [],
+    [],
+    [],
+    [],
+    []
+]
+
+[[maps]]
+name = "Orchard"
+region = "Lex Proxima"
+tier = [2, 6, 9, 11, 14]
+connections = [
+    [],
+    [],
+    [],
+    [],
+    []
+]
+
+[[maps]]
+name = "Desert"
+region = "Lex Proxima"
+tier = [2, 6, 9, 11, 14]
+connections = [
+    [],
+    [],
+    [],
+    [],
+    []
+]
+
+[[maps]]
+name = "Volcano"
+region = "Lex Proxima"
+tier = [3, 6, 10, 12, 14]
+connections = [
+    [],
+    [],
+    [],
+    [],
+    []
+]
+
+[[maps]]
+name = "Cemetery"
+region = "Lex Proxima"
+tier = [3, 7, 10, 11, 14]
+connections = [
+    [],
+    [],
+    [],
+    [],
+    []
+]
+
+[[maps]]
+name = "Dunes"
+region = "Lex Proxima"
+tier = [3, 7, 10, 11, 14]
+connections = [
+    [],
+    [],
+    [],
+    [],
+    []
+]
+
+[[maps]]
+name = "Bazaar"
+region = "Lex Proxima"
+tier = [3, 6, 10, 12, 15]
+connections = [
+    [],
+    [],
+    [],
+    [],
+    []
+]
+
+[[maps]]
+name = "Belfry"
+region = "Lex Proxima"
+tier = [3, 7, 10, 12, 14]
+connections = [
+    [],
+    [],
+    [],
+    [],
+    []
+]
+
+[[maps]]
+name = "Bog"
+region = "Lex Proxima"
+tier = [3, 6, 10, 11, 14]
+connections = [
+    [],
+    [],
+    [],
+    [],
+    []
+]
+
+[[maps]]
+name = "Arsenal"
+region = "Lex Proxima"
+tier = [3, 7, 10, 11, 14]
+connections = [
+    [],
+    [],
+    [],
+    [],
+    []
+]
+
+[[maps]]
+name = "Crystal Ore"
+region = "Lex Proxima"
+tier = [4, 7, 11, 13, 16]
+connections = [
+    [],
+    [],
+    [],
+    [],
+    []
+]
+
+[[maps]]
+name = "Arid Lake"
+region = "Lex Proxima"
+tier = [99, 5, 9, 11, 14]
+connections = [
+    [],
+    [],
+    [],
+    [],
+    []
+]
+
+[[maps]]
+name = "Port"
+region = "Lex Proxima"
+tier = [99, 6, 10, 12, 15]
+connections = [
+    [],
+    [],
+    [],
+    [],
+    []
+]
+
+[[maps]]
+name = "Maze"
+region = "Lex Proxima"
+tier = [99, 99, 9, 11, 14]
+connections = [
+    [],
+    [],
+    [],
+    [],
+    []
+]
+
+[[maps]]
+name = "Residence"
+region = "Lex Proxima"
+tier = [99, 99, 10, 12, 14]
+connections = [
+    [],
+    [],
+    [],
+    [],
+    []
+]
+
+[[maps]]
+name = "Underground River"
+region = "Lex Proxima"
+tier = [99, 99, 99, 13, 16]
+connections = [
+    [],
+    [],
+    [],
+    [],
+    []
+]
+
+[[maps]]
+name = "Plateau"
+region = "Lex Proxima"
+tier = [99, 99, 99, 13, 16]
+connections = [
+    [],
+    [],
+    [],
+    [],
+    []
+]
+
+[[maps]]
+name = "Ivory Temple"
+region = "Lex Proxima"
+tier = [99, 99, 99, 99, 14]
+connections = [
+    [],
+    [],
+    [],
+    [],
+    []
+]
+
+[[maps]]
+name = "Coral Ruins"
+region = "Lex Proxima"
+tier = [99, 99, 99, 99, 15]
+connections = [
+    [],
+    [],
+    [],
+    [],
+    []
+]

@@ -1,0 +1,5492 @@
+[
+        {
+            "WorldAreasKey": 1097,
+            "ItemVisualIdentityKey": 5293,
+            "MapsKey": 396,
+            "AtlasRegionsKey": 5,
+            "AtlasNodeKeys0": [
+                73
+            ],
+            "AtlasNodeKeys1": [
+                73
+            ],
+            "AtlasNodeKeys2": [
+                73
+            ],
+            "AtlasNodeKeys3": [
+                73
+            ],
+            "AtlasNodeKeys4": [
+                73
+            ],
+            "Tier0": 4,
+            "Tier1": 7,
+            "Tier2": 11,
+            "Tier3": 13,
+            "Tier4": 15,
+            "DDSFile": "MaoKun"
+        },
+        {
+            "WorldAreasKey": 1170,
+            "ItemVisualIdentityKey": 4445,
+            "MapsKey": 459,
+            "AtlasRegionsKey": 3,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [],
+            "AtlasNodeKeys4": [
+                43,
+                12,
+                5
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 0,
+            "Tier4": 16,
+            "DDSFile": "Carcass"
+        },
+        {
+            "WorldAreasKey": 1145,
+            "ItemVisualIdentityKey": 4406,
+            "MapsKey": 436,
+            "AtlasRegionsKey": 4,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [
+                124,
+                76,
+                11
+            ],
+            "AtlasNodeKeys3": [
+                124,
+                76,
+                11,
+                13
+            ],
+            "AtlasNodeKeys4": [
+                124,
+                76,
+                3,
+                11
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 12,
+            "Tier3": 14,
+            "Tier4": 16,
+            "DDSFile": "TortureChamber"
+        },
+        {
+            "WorldAreasKey": 1139,
+            "ItemVisualIdentityKey": 4447,
+            "MapsKey": 431,
+            "AtlasRegionsKey": 4,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [],
+            "AtlasNodeKeys4": [
+                124,
+                2,
+                13
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 0,
+            "Tier4": 16,
+            "DDSFile": "Summit"
+        },
+        {
+            "WorldAreasKey": 1104,
+            "ItemVisualIdentityKey": 4361,
+            "MapsKey": 401,
+            "AtlasRegionsKey": 7,
+            "AtlasNodeKeys0": [
+                118,
+                78,
+                64,
+                53
+            ],
+            "AtlasNodeKeys1": [
+                118,
+                86,
+                78,
+                55
+            ],
+            "AtlasNodeKeys2": [
+                118,
+                78,
+                55,
+                36
+            ],
+            "AtlasNodeKeys3": [
+                118,
+                78,
+                55,
+                36
+            ],
+            "AtlasNodeKeys4": [
+                118,
+                78,
+                55,
+                36
+            ],
+            "Tier0": 5,
+            "Tier1": 9,
+            "Tier2": 12,
+            "Tier3": 14,
+            "Tier4": 16,
+            "DDSFile": "Tower"
+        },
+        {
+            "WorldAreasKey": 1166,
+            "ItemVisualIdentityKey": 4448,
+            "MapsKey": 455,
+            "AtlasRegionsKey": 3,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [],
+            "AtlasNodeKeys4": [
+                43,
+                24,
+                14,
+                1
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 0,
+            "Tier4": 15,
+            "DDSFile": "Corpse"
+        },
+        {
+            "WorldAreasKey": 1165,
+            "ItemVisualIdentityKey": 4427,
+            "MapsKey": 454,
+            "AtlasRegionsKey": 7,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [],
+            "AtlasNodeKeys4": [
+                86,
+                55
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 0,
+            "Tier4": 15,
+            "DDSFile": "Palace"
+        },
+        {
+            "WorldAreasKey": 1157,
+            "ItemVisualIdentityKey": 4339,
+            "MapsKey": 446,
+            "AtlasRegionsKey": 7,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [],
+            "AtlasNodeKeys4": [
+                86,
+                53,
+                33
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 0,
+            "Tier4": 15,
+            "DDSFile": "Oasis"
+        },
+        {
+            "WorldAreasKey": 1176,
+            "ItemVisualIdentityKey": 4441,
+            "MapsKey": 465,
+            "AtlasRegionsKey": 6,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [],
+            "AtlasNodeKeys4": [],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 0,
+            "Tier4": 16,
+            "DDSFile": "VaalTemple"
+        },
+        {
+            "WorldAreasKey": 1163,
+            "ItemVisualIdentityKey": 4421,
+            "MapsKey": 452,
+            "AtlasRegionsKey": 5,
+            "AtlasNodeKeys0": [
+                95,
+                73,
+                11
+            ],
+            "AtlasNodeKeys1": [
+                95,
+                73,
+                11
+            ],
+            "AtlasNodeKeys2": [
+                95,
+                73,
+                11
+            ],
+            "AtlasNodeKeys3": [
+                114,
+                95,
+                11
+            ],
+            "AtlasNodeKeys4": [
+                114,
+                95,
+                11
+            ],
+            "Tier0": 4,
+            "Tier1": 8,
+            "Tier2": 12,
+            "Tier3": 14,
+            "Tier4": 16,
+            "DDSFile": "Plaza"
+        },
+        {
+            "WorldAreasKey": 1161,
+            "ItemVisualIdentityKey": 4434,
+            "MapsKey": 450,
+            "AtlasRegionsKey": 7,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [
+                86,
+                55,
+                53,
+                36
+            ],
+            "AtlasNodeKeys4": [
+                86,
+                55,
+                36
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 14,
+            "Tier4": 16,
+            "DDSFile": "DarkForest"
+        },
+        {
+            "WorldAreasKey": 1167,
+            "ItemVisualIdentityKey": 4451,
+            "MapsKey": 456,
+            "AtlasRegionsKey": 4,
+            "AtlasNodeKeys0": [
+                76,
+                73,
+                9
+            ],
+            "AtlasNodeKeys1": [
+                124,
+                76,
+                73,
+                9
+            ],
+            "AtlasNodeKeys2": [
+                76,
+                73,
+                2,
+                9
+            ],
+            "AtlasNodeKeys3": [
+                76,
+                73,
+                2,
+                9
+            ],
+            "AtlasNodeKeys4": [
+                76,
+                73,
+                2,
+                9
+            ],
+            "Tier0": 5,
+            "Tier1": 9,
+            "Tier2": 12,
+            "Tier3": 14,
+            "Tier4": 16,
+            "DDSFile": "Basilica"
+        },
+        {
+            "WorldAreasKey": 1162,
+            "ItemVisualIdentityKey": 4473,
+            "MapsKey": 451,
+            "AtlasRegionsKey": 3,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [
+                57,
+                43,
+                27
+            ],
+            "AtlasNodeKeys4": [
+                57,
+                43,
+                27,
+                1
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 14,
+            "Tier4": 16,
+            "DDSFile": "Sanctuary"
+        },
+        {
+            "WorldAreasKey": 1168,
+            "ItemVisualIdentityKey": 4446,
+            "MapsKey": 457,
+            "AtlasRegionsKey": 4,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [
+                66,
+                2
+            ],
+            "AtlasNodeKeys4": [
+                3,
+                37
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 14,
+            "Tier4": 16,
+            "DDSFile": "SunkenCity"
+        },
+        {
+            "WorldAreasKey": 1158,
+            "ItemVisualIdentityKey": 4433,
+            "MapsKey": 447,
+            "AtlasRegionsKey": 3,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [
+                105,
+                60,
+                43,
+                24
+            ],
+            "AtlasNodeKeys3": [
+                85,
+                60,
+                43,
+                24
+            ],
+            "AtlasNodeKeys4": [
+                105,
+                85,
+                60,
+                24,
+                5
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 11,
+            "Tier3": 13,
+            "Tier4": 15,
+            "DDSFile": "Core"
+        },
+        {
+            "WorldAreasKey": 1164,
+            "ItemVisualIdentityKey": 4469,
+            "MapsKey": 453,
+            "AtlasRegionsKey": 0,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [
+                117,
+                152,
+                80,
+                51
+            ],
+            "AtlasNodeKeys3": [
+                117,
+                152,
+                80,
+                51
+            ],
+            "AtlasNodeKeys4": [
+                147,
+                117,
+                80,
+                51
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 11,
+            "Tier3": 13,
+            "Tier4": 15,
+            "DDSFile": "Dig"
+        },
+        {
+            "WorldAreasKey": 1155,
+            "ItemVisualIdentityKey": 4428,
+            "MapsKey": 444,
+            "AtlasRegionsKey": 0,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [
+                126,
+                30,
+                19
+            ],
+            "AtlasNodeKeys4": [
+                126,
+                30,
+                19
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 14,
+            "Tier4": 16,
+            "DDSFile": "Shrine"
+        },
+        {
+            "WorldAreasKey": 1156,
+            "ItemVisualIdentityKey": 4396,
+            "MapsKey": 445,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [
+                116,
+                98,
+                50,
+                34
+            ],
+            "AtlasNodeKeys1": [
+                98,
+                50,
+                34
+            ],
+            "AtlasNodeKeys2": [
+                112,
+                98,
+                50,
+                34
+            ],
+            "AtlasNodeKeys3": [
+                112,
+                98,
+                50,
+                34
+            ],
+            "AtlasNodeKeys4": [
+                112,
+                98,
+                50,
+                34
+            ],
+            "Tier0": 3,
+            "Tier1": 7,
+            "Tier2": 10,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Arsenal"
+        },
+        {
+            "WorldAreasKey": 1154,
+            "ItemVisualIdentityKey": 4420,
+            "MapsKey": 443,
+            "AtlasRegionsKey": 0,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [],
+            "AtlasNodeKeys4": [
+                126,
+                151,
+                30
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 0,
+            "Tier4": 15,
+            "DDSFile": "Terrace"
+        },
+        {
+            "WorldAreasKey": 1153,
+            "ItemVisualIdentityKey": 4398,
+            "MapsKey": 442,
+            "AtlasRegionsKey": 0,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [
+                51,
+                30,
+                16
+            ],
+            "AtlasNodeKeys4": [
+                51,
+                30,
+                16
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 14,
+            "Tier4": 16,
+            "DDSFile": "Malformation"
+        },
+        {
+            "WorldAreasKey": 1148,
+            "ItemVisualIdentityKey": 5499,
+            "MapsKey": 437,
+            "AtlasRegionsKey": 1,
+            "AtlasNodeKeys0": [
+                25
+            ],
+            "AtlasNodeKeys1": [
+                25
+            ],
+            "AtlasNodeKeys2": [
+                25
+            ],
+            "AtlasNodeKeys3": [
+                25
+            ],
+            "AtlasNodeKeys4": [
+                25
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 0,
+            "Tier4": 15,
+            "DDSFile": "DeathAndTaxes"
+        },
+        {
+            "WorldAreasKey": 1146,
+            "ItemVisualIdentityKey": 5297,
+            "MapsKey": 376,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [
+                98
+            ],
+            "AtlasNodeKeys1": [
+                98
+            ],
+            "AtlasNodeKeys2": [
+                98
+            ],
+            "AtlasNodeKeys3": [
+                98
+            ],
+            "AtlasNodeKeys4": [
+                98
+            ],
+            "Tier0": 2,
+            "Tier1": 6,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "ObasCursedTrove"
+        },
+        {
+            "WorldAreasKey": 1152,
+            "ItemVisualIdentityKey": 4457,
+            "MapsKey": 441,
+            "AtlasRegionsKey": 4,
+            "AtlasNodeKeys0": [
+                137,
+                76,
+                66,
+                40
+            ],
+            "AtlasNodeKeys1": [
+                137,
+                124,
+                76,
+                66,
+                40
+            ],
+            "AtlasNodeKeys2": [
+                137,
+                124,
+                76,
+                66,
+                40
+            ],
+            "AtlasNodeKeys3": [
+                137,
+                124,
+                76,
+                66,
+                40
+            ],
+            "AtlasNodeKeys4": [
+                137,
+                124,
+                76,
+                66,
+                40,
+                37
+            ],
+            "Tier0": 4,
+            "Tier1": 8,
+            "Tier2": 11,
+            "Tier3": 12,
+            "Tier4": 15,
+            "DDSFile": "Park"
+        },
+        {
+            "WorldAreasKey": 1151,
+            "ItemVisualIdentityKey": 4338,
+            "MapsKey": 440,
+            "AtlasRegionsKey": 1,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [
+                103,
+                100,
+                41,
+                67
+            ],
+            "AtlasNodeKeys4": [
+                103,
+                39,
+                25
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "Ghetto"
+        },
+        {
+            "WorldAreasKey": 1150,
+            "ItemVisualIdentityKey": 4431,
+            "MapsKey": 439,
+            "AtlasRegionsKey": 3,
+            "AtlasNodeKeys0": [
+                105,
+                104,
+                34,
+                27
+            ],
+            "AtlasNodeKeys1": [
+                105,
+                104,
+                43,
+                34
+            ],
+            "AtlasNodeKeys2": [
+                105,
+                104,
+                43,
+                34,
+                14
+            ],
+            "AtlasNodeKeys3": [
+                104,
+                43,
+                34,
+                14
+            ],
+            "AtlasNodeKeys4": [
+                104,
+                43,
+                34,
+                14,
+                5
+            ],
+            "Tier0": 5,
+            "Tier1": 8,
+            "Tier2": 11,
+            "Tier3": 12,
+            "Tier4": 15,
+            "DDSFile": "Abyss"
+        },
+        {
+            "WorldAreasKey": 1147,
+            "ItemVisualIdentityKey": 4411,
+            "MapsKey": 437,
+            "AtlasRegionsKey": 1,
+            "AtlasNodeKeys0": [
+                20
+            ],
+            "AtlasNodeKeys1": [
+                20
+            ],
+            "AtlasNodeKeys2": [
+                20
+            ],
+            "AtlasNodeKeys3": [
+                20
+            ],
+            "AtlasNodeKeys4": [
+                67,
+                20,
+                23
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 0,
+            "Tier4": 15,
+            "DDSFile": "Necropolis"
+        },
+        {
+            "WorldAreasKey": 1149,
+            "ItemVisualIdentityKey": 4364,
+            "MapsKey": 438,
+            "AtlasRegionsKey": 5,
+            "AtlasNodeKeys0": [
+                137,
+                77,
+                70,
+                63
+            ],
+            "AtlasNodeKeys1": [
+                137,
+                77,
+                70,
+                63
+            ],
+            "AtlasNodeKeys2": [
+                137,
+                77,
+                70,
+                63
+            ],
+            "AtlasNodeKeys3": [
+                137,
+                77,
+                70,
+                63
+            ],
+            "AtlasNodeKeys4": [
+                137,
+                77,
+                70,
+                63
+            ],
+            "Tier0": 3,
+            "Tier1": 6,
+            "Tier2": 10,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Racecourse"
+        },
+        {
+            "WorldAreasKey": 1169,
+            "ItemVisualIdentityKey": 4393,
+            "MapsKey": 458,
+            "AtlasRegionsKey": 3,
+            "AtlasNodeKeys0": [
+                118,
+                104,
+                90,
+                29,
+                24
+            ],
+            "AtlasNodeKeys1": [
+                90,
+                57,
+                43,
+                29
+            ],
+            "AtlasNodeKeys2": [
+                90,
+                57,
+                43,
+                29
+            ],
+            "AtlasNodeKeys3": [
+                90,
+                57,
+                43,
+                29,
+                12
+            ],
+            "AtlasNodeKeys4": [
+                90,
+                57,
+                43,
+                29,
+                12
+            ],
+            "Tier0": 5,
+            "Tier1": 8,
+            "Tier2": 11,
+            "Tier3": 13,
+            "Tier4": 15,
+            "DDSFile": "Reef"
+        },
+        {
+            "WorldAreasKey": 1144,
+            "ItemVisualIdentityKey": 4352,
+            "MapsKey": 435,
+            "AtlasRegionsKey": 6,
+            "AtlasNodeKeys0": [
+                146,
+                115,
+                74,
+                49
+            ],
+            "AtlasNodeKeys1": [
+                146,
+                131,
+                115,
+                49
+            ],
+            "AtlasNodeKeys2": [
+                146,
+                131,
+                115,
+                38
+            ],
+            "AtlasNodeKeys3": [
+                146,
+                131,
+                115,
+                38
+            ],
+            "AtlasNodeKeys4": [
+                146,
+                131,
+                115,
+                38
+            ],
+            "Tier0": 2,
+            "Tier1": 5,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Villa"
+        },
+        {
+            "WorldAreasKey": 1143,
+            "ItemVisualIdentityKey": 4333,
+            "MapsKey": 434,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [
+                120,
+                118,
+                27
+            ],
+            "AtlasNodeKeys1": [
+                120,
+                118,
+                27
+            ],
+            "AtlasNodeKeys2": [
+                118,
+                94,
+                27
+            ],
+            "AtlasNodeKeys3": [
+                118,
+                94,
+                27
+            ],
+            "AtlasNodeKeys4": [
+                118,
+                96,
+                27
+            ],
+            "Tier0": 4,
+            "Tier1": 7,
+            "Tier2": 11,
+            "Tier3": 13,
+            "Tier4": 16,
+            "DDSFile": "CrystalOre"
+        },
+        {
+            "WorldAreasKey": 1142,
+            "ItemVisualIdentityKey": 4372,
+            "MapsKey": 433,
+            "AtlasRegionsKey": 0,
+            "AtlasNodeKeys0": [
+                126,
+                117,
+                151,
+                152
+            ],
+            "AtlasNodeKeys1": [
+                126,
+                151,
+                152,
+                51
+            ],
+            "AtlasNodeKeys2": [
+                126,
+                152,
+                51
+            ],
+            "AtlasNodeKeys3": [
+                126,
+                152,
+                51,
+                19,
+                16
+            ],
+            "AtlasNodeKeys4": [
+                147,
+                152,
+                51,
+                19,
+                18,
+                16
+            ],
+            "Tier0": 5,
+            "Tier1": 8,
+            "Tier2": 12,
+            "Tier3": 13,
+            "Tier4": 15,
+            "DDSFile": "CastleRuins"
+        },
+        {
+            "WorldAreasKey": 1141,
+            "ItemVisualIdentityKey": 5249,
+            "MapsKey": 432,
+            "AtlasRegionsKey": 6,
+            "AtlasNodeKeys0": [
+                32
+            ],
+            "AtlasNodeKeys1": [
+                32
+            ],
+            "AtlasNodeKeys2": [
+                32
+            ],
+            "AtlasNodeKeys3": [
+                32
+            ],
+            "AtlasNodeKeys4": [
+                32
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 13,
+            "Tier4": 16,
+            "DDSFile": "ActonsNightmare"
+        },
+        {
+            "WorldAreasKey": 1140,
+            "ItemVisualIdentityKey": 4391,
+            "MapsKey": 432,
+            "AtlasRegionsKey": 6,
+            "AtlasNodeKeys0": [
+                31
+            ],
+            "AtlasNodeKeys1": [
+                31
+            ],
+            "AtlasNodeKeys2": [
+                31
+            ],
+            "AtlasNodeKeys3": [
+                81,
+                31
+            ],
+            "AtlasNodeKeys4": [
+                146,
+                81,
+                45,
+                31
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 13,
+            "Tier4": 16,
+            "DDSFile": "OvergrownShrine"
+        },
+        {
+            "WorldAreasKey": 1138,
+            "ItemVisualIdentityKey": 4452,
+            "MapsKey": 430,
+            "AtlasRegionsKey": 7,
+            "AtlasNodeKeys0": [
+                127,
+                109,
+                62,
+                74,
+                64,
+                53
+            ],
+            "AtlasNodeKeys1": [
+                127,
+                109,
+                62,
+                74
+            ],
+            "AtlasNodeKeys2": [
+                127,
+                109,
+                62,
+                74,
+                68,
+                53
+            ],
+            "AtlasNodeKeys3": [
+                127,
+                109,
+                62,
+                86,
+                74,
+                68,
+                53
+            ],
+            "AtlasNodeKeys4": [
+                127,
+                109,
+                62,
+                74,
+                68,
+                53,
+                7
+            ],
+            "Tier0": 4,
+            "Tier1": 7,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "DefiledCathedral"
+        },
+        {
+            "WorldAreasKey": 1136,
+            "ItemVisualIdentityKey": 4358,
+            "MapsKey": 429,
+            "AtlasRegionsKey": 3,
+            "AtlasNodeKeys0": [
+                120,
+                105,
+                104,
+                92,
+                24,
+                17
+            ],
+            "AtlasNodeKeys1": [
+                120,
+                105,
+                104,
+                92,
+                24,
+                17
+            ],
+            "AtlasNodeKeys2": [
+                120,
+                105,
+                104,
+                92,
+                24,
+                17
+            ],
+            "AtlasNodeKeys3": [
+                120,
+                105,
+                104,
+                92,
+                85,
+                24,
+                17
+            ],
+            "AtlasNodeKeys4": [
+                120,
+                104,
+                92,
+                85,
+                24,
+                17
+            ],
+            "Tier0": 4,
+            "Tier1": 7,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "Pit1"
+        },
+        {
+            "WorldAreasKey": 1135,
+            "ItemVisualIdentityKey": 4357,
+            "MapsKey": 428,
+            "AtlasRegionsKey": 6,
+            "AtlasNodeKeys0": [
+                146,
+                110,
+                109,
+                74,
+                52
+            ],
+            "AtlasNodeKeys1": [
+                131,
+                110,
+                109,
+                74,
+                52
+            ],
+            "AtlasNodeKeys2": [
+                131,
+                110,
+                109,
+                74,
+                52
+            ],
+            "AtlasNodeKeys3": [
+                131,
+                110,
+                109,
+                74,
+                52
+            ],
+            "AtlasNodeKeys4": [
+                131,
+                110,
+                109,
+                74,
+                52
+            ],
+            "Tier0": 3,
+            "Tier1": 6,
+            "Tier2": 10,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Mesa"
+        },
+        {
+            "WorldAreasKey": 1159,
+            "ItemVisualIdentityKey": 4432,
+            "MapsKey": 448,
+            "AtlasRegionsKey": 7,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [
+                86,
+                4,
+                55,
+                53
+            ],
+            "AtlasNodeKeys3": [
+                4,
+                55,
+                10
+            ],
+            "AtlasNodeKeys4": [
+                4,
+                55,
+                10
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 12,
+            "Tier3": 14,
+            "Tier4": 16,
+            "DDSFile": "Colosseum"
+        },
+        {
+            "WorldAreasKey": 1160,
+            "ItemVisualIdentityKey": 4348,
+            "MapsKey": 449,
+            "AtlasRegionsKey": 4,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [],
+            "AtlasNodeKeys4": [
+                124,
+                66,
+                22,
+                13
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 0,
+            "Tier4": 15,
+            "DDSFile": "AcidLakes"
+        },
+        {
+            "WorldAreasKey": 1134,
+            "ItemVisualIdentityKey": 4337,
+            "MapsKey": 427,
+            "AtlasRegionsKey": 6,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [
+                49,
+                28
+            ],
+            "AtlasNodeKeys3": [
+                49,
+                28
+            ],
+            "AtlasNodeKeys4": [
+                49,
+                28
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Factory"
+        },
+        {
+            "WorldAreasKey": 1131,
+            "ItemVisualIdentityKey": 4366,
+            "MapsKey": 424,
+            "AtlasRegionsKey": 1,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [],
+            "AtlasNodeKeys4": [
+                128,
+                100,
+                41,
+                23
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 0,
+            "Tier4": 14,
+            "DDSFile": "SpiderForest"
+        },
+        {
+            "WorldAreasKey": 1132,
+            "ItemVisualIdentityKey": 4387,
+            "MapsKey": 425,
+            "AtlasRegionsKey": 5,
+            "AtlasNodeKeys0": [
+                137,
+                76,
+                73,
+                63,
+                22
+            ],
+            "AtlasNodeKeys1": [
+                137,
+                76,
+                73,
+                63,
+                22
+            ],
+            "AtlasNodeKeys2": [
+                137,
+                76,
+                73,
+                63,
+                22
+            ],
+            "AtlasNodeKeys3": [
+                137,
+                76,
+                73,
+                63,
+                22
+            ],
+            "AtlasNodeKeys4": [
+                137,
+                82,
+                76,
+                73,
+                63,
+                22
+            ],
+            "Tier0": 3,
+            "Tier1": 7,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 15,
+            "DDSFile": "Coves"
+        },
+        {
+            "WorldAreasKey": 1130,
+            "ItemVisualIdentityKey": 4359,
+            "MapsKey": 423,
+            "AtlasRegionsKey": 1,
+            "AtlasNodeKeys0": [
+                125,
+                151,
+                67
+            ],
+            "AtlasNodeKeys1": [
+                151,
+                103,
+                67
+            ],
+            "AtlasNodeKeys2": [
+                151,
+                103,
+                67
+            ],
+            "AtlasNodeKeys3": [
+                151,
+                67,
+                23
+            ],
+            "AtlasNodeKeys4": [
+                151,
+                39,
+                67
+            ],
+            "Tier0": 3,
+            "Tier1": 6,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 15,
+            "DDSFile": "PrimordialPool"
+        },
+        {
+            "WorldAreasKey": 1129,
+            "ItemVisualIdentityKey": 4375,
+            "MapsKey": 422,
+            "AtlasRegionsKey": 5,
+            "AtlasNodeKeys0": [
+                126,
+                151,
+                95,
+                67
+            ],
+            "AtlasNodeKeys1": [
+                126,
+                151,
+                95,
+                67
+            ],
+            "AtlasNodeKeys2": [
+                126,
+                151,
+                95,
+                67
+            ],
+            "AtlasNodeKeys3": [
+                126,
+                151,
+                95,
+                67
+            ],
+            "AtlasNodeKeys4": [
+                126,
+                151,
+                95,
+                67
+            ],
+            "Tier0": 4,
+            "Tier1": 8,
+            "Tier2": 11,
+            "Tier3": 13,
+            "Tier4": 16,
+            "DDSFile": "Colonnade"
+        },
+        {
+            "WorldAreasKey": 1128,
+            "ItemVisualIdentityKey": 4417,
+            "MapsKey": 421,
+            "AtlasRegionsKey": 3,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [
+                104,
+                57,
+                24,
+                27
+            ],
+            "AtlasNodeKeys2": [
+                104,
+                57,
+                24,
+                14,
+                27
+            ],
+            "AtlasNodeKeys3": [
+                104,
+                24,
+                14,
+                12,
+                27
+            ],
+            "AtlasNodeKeys4": [
+                104,
+                24,
+                12,
+                5,
+                27,
+                1
+            ],
+            "Tier0": 0,
+            "Tier1": 8,
+            "Tier2": 12,
+            "Tier3": 13,
+            "Tier4": 15,
+            "DDSFile": "Lair"
+        },
+        {
+            "WorldAreasKey": 1127,
+            "ItemVisualIdentityKey": 6130,
+            "MapsKey": 420,
+            "AtlasRegionsKey": 6,
+            "AtlasNodeKeys0": [
+                45
+            ],
+            "AtlasNodeKeys1": [
+                45
+            ],
+            "AtlasNodeKeys2": [
+                45
+            ],
+            "AtlasNodeKeys3": [
+                45
+            ],
+            "AtlasNodeKeys4": [
+                45
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 0,
+            "Tier4": 16,
+            "DDSFile": "HallOfGrandmasters"
+        },
+        {
+            "WorldAreasKey": 1126,
+            "ItemVisualIdentityKey": 4392,
+            "MapsKey": 420,
+            "AtlasRegionsKey": 6,
+            "AtlasNodeKeys0": [
+                44
+            ],
+            "AtlasNodeKeys1": [
+                44
+            ],
+            "AtlasNodeKeys2": [
+                44
+            ],
+            "AtlasNodeKeys3": [
+                44
+            ],
+            "AtlasNodeKeys4": [
+                44,
+                32
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 0,
+            "Tier4": 16,
+            "DDSFile": "Promenade"
+        },
+        {
+            "WorldAreasKey": 1125,
+            "ItemVisualIdentityKey": 4390,
+            "MapsKey": 419,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [
+                149,
+                62,
+                74
+            ],
+            "AtlasNodeKeys1": [
+                149,
+                62,
+                74
+            ],
+            "AtlasNodeKeys2": [
+                149,
+                62,
+                74
+            ],
+            "AtlasNodeKeys3": [
+                149,
+                62,
+                74
+            ],
+            "AtlasNodeKeys4": [
+                149,
+                62,
+                74
+            ],
+            "Tier0": 2,
+            "Tier1": 6,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Orchard"
+        },
+        {
+            "WorldAreasKey": 1124,
+            "ItemVisualIdentityKey": 5206,
+            "MapsKey": 418,
+            "AtlasRegionsKey": 1,
+            "AtlasNodeKeys0": [
+                48
+            ],
+            "AtlasNodeKeys1": [
+                48
+            ],
+            "AtlasNodeKeys2": [
+                48
+            ],
+            "AtlasNodeKeys3": [
+                48
+            ],
+            "AtlasNodeKeys4": [
+                48
+            ],
+            "Tier0": 2,
+            "Tier1": 6,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "TheCowardsTrial"
+        },
+        {
+            "WorldAreasKey": 1123,
+            "ItemVisualIdentityKey": 4388,
+            "MapsKey": 418,
+            "AtlasRegionsKey": 1,
+            "AtlasNodeKeys0": [
+                142,
+                134,
+                83,
+                47
+            ],
+            "AtlasNodeKeys1": [
+                142,
+                134,
+                83,
+                72,
+                47
+            ],
+            "AtlasNodeKeys2": [
+                142,
+                138,
+                134,
+                83,
+                47
+            ],
+            "AtlasNodeKeys3": [
+                142,
+                138,
+                134,
+                83,
+                47
+            ],
+            "AtlasNodeKeys4": [
+                142,
+                138,
+                134,
+                83,
+                47
+            ],
+            "Tier0": 2,
+            "Tier1": 6,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Crypt"
+        },
+        {
+            "WorldAreasKey": 1122,
+            "ItemVisualIdentityKey": 4384,
+            "MapsKey": 417,
+            "AtlasRegionsKey": 6,
+            "AtlasNodeKeys0": [
+                133,
+                113,
+                28
+            ],
+            "AtlasNodeKeys1": [
+                133,
+                113,
+                56,
+                28
+            ],
+            "AtlasNodeKeys2": [
+                133,
+                113,
+                56,
+                38
+            ],
+            "AtlasNodeKeys3": [
+                133,
+                113,
+                56,
+                38
+            ],
+            "AtlasNodeKeys4": [
+                133,
+                113,
+                56,
+                38
+            ],
+            "Tier0": 1,
+            "Tier1": 4,
+            "Tier2": 8,
+            "Tier3": 10,
+            "Tier4": 14,
+            "DDSFile": "Pier"
+        },
+        {
+            "WorldAreasKey": 1121,
+            "ItemVisualIdentityKey": 4380,
+            "MapsKey": 416,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [
+                142,
+                105,
+                116,
+                60,
+                17
+            ],
+            "AtlasNodeKeys1": [
+                141,
+                132,
+                105,
+                60,
+                17
+            ],
+            "AtlasNodeKeys2": [
+                112,
+                105,
+                60,
+                17
+            ],
+            "AtlasNodeKeys3": [
+                112,
+                105,
+                60,
+                17
+            ],
+            "AtlasNodeKeys4": [
+                112,
+                105,
+                60,
+                17
+            ],
+            "Tier0": 3,
+            "Tier1": 6,
+            "Tier2": 10,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Bog"
+        },
+        {
+            "WorldAreasKey": 1120,
+            "ItemVisualIdentityKey": 4405,
+            "MapsKey": 415,
+            "AtlasRegionsKey": 0,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [
+                117,
+                152,
+                30
+            ],
+            "AtlasNodeKeys2": [
+                30,
+                15
+            ],
+            "AtlasNodeKeys3": [
+                30,
+                19,
+                15
+            ],
+            "AtlasNodeKeys4": [
+                147,
+                30,
+                19,
+                15
+            ],
+            "Tier0": 0,
+            "Tier1": 7,
+            "Tier2": 12,
+            "Tier3": 14,
+            "Tier4": 15,
+            "DDSFile": "Precinct"
+        },
+        {
+            "WorldAreasKey": 1119,
+            "ItemVisualIdentityKey": 4408,
+            "MapsKey": 414,
+            "AtlasRegionsKey": 6,
+            "AtlasNodeKeys0": [
+                146,
+                110,
+                35
+            ],
+            "AtlasNodeKeys1": [
+                146,
+                131,
+                110,
+                35
+            ],
+            "AtlasNodeKeys2": [
+                146,
+                131,
+                110,
+                35
+            ],
+            "AtlasNodeKeys3": [
+                146,
+                131,
+                110,
+                35
+            ],
+            "AtlasNodeKeys4": [
+                146,
+                131,
+                110,
+                35
+            ],
+            "Tier0": 3,
+            "Tier1": 6,
+            "Tier2": 10,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Wasteland"
+        },
+        {
+            "WorldAreasKey": 1118,
+            "ItemVisualIdentityKey": 4371,
+            "MapsKey": 413,
+            "AtlasRegionsKey": 7,
+            "AtlasNodeKeys0": [
+                110,
+                4,
+                33
+            ],
+            "AtlasNodeKeys1": [
+                127,
+                110,
+                109,
+                86,
+                55
+            ],
+            "AtlasNodeKeys2": [
+                127,
+                86,
+                33,
+                36
+            ],
+            "AtlasNodeKeys3": [
+                55,
+                33,
+                10
+            ],
+            "AtlasNodeKeys4": [
+                55,
+                33,
+                7
+            ],
+            "Tier0": 4,
+            "Tier1": 8,
+            "Tier2": 11,
+            "Tier3": 13,
+            "Tier4": 15,
+            "DDSFile": "Arachnid"
+        },
+        {
+            "WorldAreasKey": 1117,
+            "ItemVisualIdentityKey": 4450,
+            "MapsKey": 412,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [
+                102,
+                78,
+                64
+            ],
+            "AtlasNodeKeys1": [
+                102,
+                78,
+                64
+            ],
+            "AtlasNodeKeys2": [
+                102,
+                78,
+                64
+            ],
+            "AtlasNodeKeys3": [
+                102,
+                78,
+                64
+            ],
+            "AtlasNodeKeys4": [
+                102,
+                96,
+                78,
+                64
+            ],
+            "Tier0": 3,
+            "Tier1": 7,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "Belfry"
+        },
+        {
+            "WorldAreasKey": 1115,
+            "ItemVisualIdentityKey": 4458,
+            "MapsKey": 410,
+            "AtlasRegionsKey": 7,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [
+                86,
+                4,
+                64,
+                53
+            ],
+            "AtlasNodeKeys2": [
+                78,
+                4,
+                64,
+                36
+            ],
+            "AtlasNodeKeys3": [
+                78,
+                4,
+                64,
+                53,
+                36,
+                10
+            ],
+            "AtlasNodeKeys4": [
+                78,
+                4,
+                64,
+                53,
+                36,
+                10,
+                6
+            ],
+            "Tier0": 0,
+            "Tier1": 8,
+            "Tier2": 11,
+            "Tier3": 13,
+            "Tier4": 15,
+            "DDSFile": "Boulevard"
+        },
+        {
+            "WorldAreasKey": 1114,
+            "ItemVisualIdentityKey": 4422,
+            "MapsKey": 409,
+            "AtlasRegionsKey": 6,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [
+                149,
+                131,
+                49
+            ],
+            "AtlasNodeKeys2": [
+                131,
+                49
+            ],
+            "AtlasNodeKeys3": [
+                131,
+                130,
+                49
+            ],
+            "AtlasNodeKeys4": [
+                71,
+                49
+            ],
+            "Tier0": 0,
+            "Tier1": 5,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Scriptorium"
+        },
+        {
+            "WorldAreasKey": 1116,
+            "ItemVisualIdentityKey": 4415,
+            "MapsKey": 411,
+            "AtlasRegionsKey": 3,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [
+                118,
+                43,
+                27
+            ],
+            "AtlasNodeKeys2": [
+                118,
+                43,
+                27
+            ],
+            "AtlasNodeKeys3": [
+                118,
+                12,
+                27
+            ],
+            "AtlasNodeKeys4": [
+                118,
+                12,
+                27
+            ],
+            "Tier0": 0,
+            "Tier1": 9,
+            "Tier2": 12,
+            "Tier3": 14,
+            "Tier4": 16,
+            "DDSFile": "Shipyard"
+        },
+        {
+            "WorldAreasKey": 1113,
+            "ItemVisualIdentityKey": 7607,
+            "MapsKey": 408,
+            "AtlasRegionsKey": 1,
+            "AtlasNodeKeys0": [
+                59
+            ],
+            "AtlasNodeKeys1": [
+                59
+            ],
+            "AtlasNodeKeys2": [
+                59
+            ],
+            "AtlasNodeKeys3": [
+                59
+            ],
+            "AtlasNodeKeys4": [
+                59
+            ],
+            "Tier0": 3,
+            "Tier1": 6,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "ThePutridCloister"
+        },
+        {
+            "WorldAreasKey": 1112,
+            "ItemVisualIdentityKey": 4389,
+            "MapsKey": 408,
+            "AtlasRegionsKey": 1,
+            "AtlasNodeKeys0": [
+                152,
+                83,
+                80,
+                100,
+                58
+            ],
+            "AtlasNodeKeys1": [
+                152,
+                103,
+                83,
+                80,
+                72,
+                100,
+                58
+            ],
+            "AtlasNodeKeys2": [
+                152,
+                103,
+                83,
+                80,
+                72,
+                100,
+                58
+            ],
+            "AtlasNodeKeys3": [
+                128,
+                152,
+                103,
+                83,
+                80,
+                100,
+                58
+            ],
+            "AtlasNodeKeys4": [
+                128,
+                152,
+                83,
+                80,
+                100,
+                58
+            ],
+            "Tier0": 3,
+            "Tier1": 6,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "Museum"
+        },
+        {
+            "WorldAreasKey": 1111,
+            "ItemVisualIdentityKey": 4379,
+            "MapsKey": 407,
+            "AtlasRegionsKey": 3,
+            "AtlasNodeKeys0": [
+                105,
+                50
+            ],
+            "AtlasNodeKeys1": [
+                105,
+                50
+            ],
+            "AtlasNodeKeys2": [
+                105,
+                50,
+                14
+            ],
+            "AtlasNodeKeys3": [
+                105,
+                50,
+                14
+            ],
+            "AtlasNodeKeys4": [
+                50,
+                14
+            ],
+            "Tier0": 3,
+            "Tier1": 6,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "Arena"
+        },
+        {
+            "WorldAreasKey": 1070,
+            "ItemVisualIdentityKey": 7608,
+            "MapsKey": 375,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [
+                62
+            ],
+            "AtlasNodeKeys1": [
+                62
+            ],
+            "AtlasNodeKeys2": [
+                62
+            ],
+            "AtlasNodeKeys3": [
+                62
+            ],
+            "AtlasNodeKeys4": [
+                62
+            ],
+            "Tier0": 3,
+            "Tier1": 7,
+            "Tier2": 10,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "HallowedGround"
+        },
+        {
+            "WorldAreasKey": 1069,
+            "ItemVisualIdentityKey": 4381,
+            "MapsKey": 375,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [
+                127,
+                102,
+                61,
+                74,
+                46,
+                33
+            ],
+            "AtlasNodeKeys1": [
+                127,
+                102,
+                61,
+                74,
+                46,
+                33
+            ],
+            "AtlasNodeKeys2": [
+                127,
+                102,
+                61,
+                74,
+                46,
+                33
+            ],
+            "AtlasNodeKeys3": [
+                127,
+                102,
+                61,
+                74,
+                46,
+                33
+            ],
+            "AtlasNodeKeys4": [
+                127,
+                102,
+                61,
+                74,
+                46,
+                33
+            ],
+            "Tier0": 3,
+            "Tier1": 7,
+            "Tier2": 10,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Cemetery"
+        },
+        {
+            "WorldAreasKey": 1108,
+            "ItemVisualIdentityKey": 4416,
+            "MapsKey": 405,
+            "AtlasRegionsKey": 5,
+            "AtlasNodeKeys0": [
+                137,
+                136,
+                77,
+                73,
+                40,
+                26
+            ],
+            "AtlasNodeKeys1": [
+                137,
+                135,
+                77,
+                40,
+                26
+            ],
+            "AtlasNodeKeys2": [
+                137,
+                135,
+                77,
+                40,
+                26
+            ],
+            "AtlasNodeKeys3": [
+                145,
+                137,
+                135,
+                77,
+                40,
+                26
+            ],
+            "AtlasNodeKeys4": [
+                145,
+                137,
+                135,
+                77,
+                40,
+                26
+            ],
+            "Tier0": 3,
+            "Tier1": 6,
+            "Tier2": 10,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Vault"
+        },
+        {
+            "WorldAreasKey": 1107,
+            "ItemVisualIdentityKey": 4410,
+            "MapsKey": 404,
+            "AtlasRegionsKey": 7,
+            "AtlasNodeKeys0": [
+                127,
+                78,
+                4,
+                54,
+                33
+            ],
+            "AtlasNodeKeys1": [
+                127,
+                78,
+                55,
+                54
+            ],
+            "AtlasNodeKeys2": [
+                127,
+                78,
+                55,
+                54
+            ],
+            "AtlasNodeKeys3": [
+                127,
+                78,
+                55,
+                54
+            ],
+            "AtlasNodeKeys4": [
+                127,
+                78,
+                55,
+                54
+            ],
+            "Tier0": 4,
+            "Tier1": 7,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 15,
+            "DDSFile": "Estuary"
+        },
+        {
+            "WorldAreasKey": 1106,
+            "ItemVisualIdentityKey": 4412,
+            "MapsKey": 403,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [
+                132,
+                88
+            ],
+            "AtlasNodeKeys4": [
+                132,
+                88
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 13,
+            "Tier4": 16,
+            "DDSFile": "Plateau"
+        },
+        {
+            "WorldAreasKey": 1105,
+            "ItemVisualIdentityKey": 4353,
+            "MapsKey": 402,
+            "AtlasRegionsKey": 4,
+            "AtlasNodeKeys0": [
+                137,
+                70,
+                22
+            ],
+            "AtlasNodeKeys1": [
+                124,
+                70,
+                22
+            ],
+            "AtlasNodeKeys2": [
+                124,
+                70,
+                22
+            ],
+            "AtlasNodeKeys3": [
+                124,
+                70,
+                22,
+                13
+            ],
+            "AtlasNodeKeys4": [
+                70,
+                22,
+                37
+            ],
+            "Tier0": 4,
+            "Tier1": 8,
+            "Tier2": 11,
+            "Tier3": 13,
+            "Tier4": 15,
+            "DDSFile": "WastePool"
+        },
+        {
+            "WorldAreasKey": 1133,
+            "ItemVisualIdentityKey": 4424,
+            "MapsKey": 426,
+            "AtlasRegionsKey": 1,
+            "AtlasNodeKeys0": [
+                42,
+                41
+            ],
+            "AtlasNodeKeys1": [
+                42,
+                41
+            ],
+            "AtlasNodeKeys2": [
+                103,
+                42,
+                41
+            ],
+            "AtlasNodeKeys3": [
+                42,
+                41,
+                23
+            ],
+            "AtlasNodeKeys4": [
+                42,
+                41,
+                25
+            ],
+            "Tier0": 3,
+            "Tier1": 7,
+            "Tier2": 10,
+            "Tier3": 13,
+            "Tier4": 16,
+            "DDSFile": "Waterways"
+        },
+        {
+            "WorldAreasKey": 1103,
+            "ItemVisualIdentityKey": 4474,
+            "MapsKey": 400,
+            "AtlasRegionsKey": 7,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [
+                110,
+                109,
+                86,
+                33
+            ],
+            "AtlasNodeKeys3": [
+                110,
+                109,
+                86,
+                33
+            ],
+            "AtlasNodeKeys4": [
+                110,
+                109,
+                86,
+                33
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 11,
+            "Tier3": 13,
+            "Tier4": 15,
+            "DDSFile": "Sepulchre"
+        },
+        {
+            "WorldAreasKey": 1102,
+            "ItemVisualIdentityKey": 7817,
+            "MapsKey": 399,
+            "AtlasRegionsKey": 4,
+            "AtlasNodeKeys0": [
+                70
+            ],
+            "AtlasNodeKeys1": [
+                70
+            ],
+            "AtlasNodeKeys2": [
+                70
+            ],
+            "AtlasNodeKeys3": [
+                70
+            ],
+            "AtlasNodeKeys4": [
+                70
+            ],
+            "Tier0": 3,
+            "Tier1": 7,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "TheTwilightTemple"
+        },
+        {
+            "WorldAreasKey": 1101,
+            "ItemVisualIdentityKey": 4459,
+            "MapsKey": 399,
+            "AtlasRegionsKey": 4,
+            "AtlasNodeKeys0": [
+                137,
+                129,
+                69,
+                66,
+                26
+            ],
+            "AtlasNodeKeys1": [
+                137,
+                129,
+                69,
+                66,
+                26
+            ],
+            "AtlasNodeKeys2": [
+                137,
+                129,
+                69,
+                66,
+                26
+            ],
+            "AtlasNodeKeys3": [
+                137,
+                129,
+                69,
+                66,
+                26
+            ],
+            "AtlasNodeKeys4": [
+                137,
+                129,
+                69,
+                66,
+                26
+            ],
+            "Tier0": 3,
+            "Tier1": 7,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "LunarisTemple"
+        },
+        {
+            "WorldAreasKey": 1100,
+            "ItemVisualIdentityKey": 4426,
+            "MapsKey": 398,
+            "AtlasRegionsKey": 6,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [],
+            "AtlasNodeKeys4": [
+                133,
+                131,
+                56
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 0,
+            "Tier4": 14,
+            "DDSFile": "MineralPools"
+        },
+        {
+            "WorldAreasKey": 1098,
+            "ItemVisualIdentityKey": 4386,
+            "MapsKey": 397,
+            "AtlasRegionsKey": 1,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [
+                153,
+                83,
+                59,
+                48
+            ],
+            "AtlasNodeKeys2": [
+                138,
+                153,
+                59
+            ],
+            "AtlasNodeKeys3": [
+                138,
+                128,
+                153
+            ],
+            "AtlasNodeKeys4": [
+                138,
+                128,
+                153
+            ],
+            "Tier0": 0,
+            "Tier1": 5,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "TropicalIsland"
+        },
+        {
+            "WorldAreasKey": 1096,
+            "ItemVisualIdentityKey": 4385,
+            "MapsKey": 396,
+            "AtlasRegionsKey": 5,
+            "AtlasNodeKeys0": [
+                143,
+                76,
+                0,
+                63,
+                40,
+                9,
+                11
+            ],
+            "AtlasNodeKeys1": [
+                135,
+                76,
+                0,
+                40,
+                9,
+                11
+            ],
+            "AtlasNodeKeys2": [
+                135,
+                97,
+                76,
+                0,
+                40,
+                9,
+                11
+            ],
+            "AtlasNodeKeys3": [
+                135,
+                76,
+                0,
+                40,
+                11
+            ],
+            "AtlasNodeKeys4": [
+                82,
+                76,
+                0,
+                40,
+                11
+            ],
+            "Tier0": 4,
+            "Tier1": 7,
+            "Tier2": 11,
+            "Tier3": 13,
+            "Tier4": 15,
+            "DDSFile": "Shore"
+        },
+        {
+            "WorldAreasKey": 1095,
+            "ItemVisualIdentityKey": 4377,
+            "MapsKey": 395,
+            "AtlasRegionsKey": 6,
+            "AtlasNodeKeys0": [
+                149,
+                146,
+                62,
+                46,
+                35,
+                33,
+                28
+            ],
+            "AtlasNodeKeys1": [
+                149,
+                131,
+                62,
+                46,
+                35,
+                33
+            ],
+            "AtlasNodeKeys2": [
+                149,
+                131,
+                62,
+                46,
+                35,
+                33
+            ],
+            "AtlasNodeKeys3": [
+                62,
+                130,
+                46,
+                35,
+                33
+            ],
+            "AtlasNodeKeys4": [
+                62,
+                130,
+                46,
+                35,
+                33
+            ],
+            "Tier0": 3,
+            "Tier1": 6,
+            "Tier2": 10,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "MudGeyser"
+        },
+        {
+            "WorldAreasKey": 1094,
+            "ItemVisualIdentityKey": 6131,
+            "MapsKey": 394,
+            "AtlasRegionsKey": 4,
+            "AtlasNodeKeys0": [
+                76
+            ],
+            "AtlasNodeKeys1": [
+                76
+            ],
+            "AtlasNodeKeys2": [
+                76
+            ],
+            "AtlasNodeKeys3": [
+                76
+            ],
+            "AtlasNodeKeys4": [
+                76
+            ],
+            "Tier0": 4,
+            "Tier1": 8,
+            "Tier2": 11,
+            "Tier3": 13,
+            "Tier4": 15,
+            "DDSFile": "TheVinktarSquare"
+        },
+        {
+            "WorldAreasKey": 1093,
+            "ItemVisualIdentityKey": 4397,
+            "MapsKey": 394,
+            "AtlasRegionsKey": 4,
+            "AtlasNodeKeys0": [
+                75,
+                73,
+                40,
+                22,
+                11
+            ],
+            "AtlasNodeKeys1": [
+                124,
+                75,
+                73,
+                40,
+                22,
+                11
+            ],
+            "AtlasNodeKeys2": [
+                124,
+                75,
+                73,
+                40,
+                2,
+                22,
+                11
+            ],
+            "AtlasNodeKeys3": [
+                124,
+                75,
+                73,
+                40,
+                2,
+                22,
+                11
+            ],
+            "AtlasNodeKeys4": [
+                124,
+                75,
+                73,
+                40,
+                2,
+                22,
+                11
+            ],
+            "Tier0": 4,
+            "Tier1": 8,
+            "Tier2": 11,
+            "Tier3": 13,
+            "Tier4": 15,
+            "DDSFile": "Courtyard"
+        },
+        {
+            "WorldAreasKey": 1092,
+            "ItemVisualIdentityKey": 4395,
+            "MapsKey": 393,
+            "AtlasRegionsKey": 5,
+            "AtlasNodeKeys0": [
+                148,
+                129,
+                121,
+                63,
+                26
+            ],
+            "AtlasNodeKeys1": [
+                148,
+                139,
+                129,
+                121,
+                63,
+                26
+            ],
+            "AtlasNodeKeys2": [
+                148,
+                129,
+                121,
+                63,
+                26
+            ],
+            "AtlasNodeKeys3": [
+                148,
+                145,
+                129,
+                121,
+                63,
+                26
+            ],
+            "AtlasNodeKeys4": [
+                145,
+                129,
+                121,
+                63,
+                26
+            ],
+            "Tier0": 2,
+            "Tier1": 5,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Armory"
+        },
+        {
+            "WorldAreasKey": 1091,
+            "ItemVisualIdentityKey": 4363,
+            "MapsKey": 392,
+            "AtlasRegionsKey": 7,
+            "AtlasNodeKeys0": [
+                4,
+                64,
+                54
+            ],
+            "AtlasNodeKeys1": [
+                4,
+                64,
+                54
+            ],
+            "AtlasNodeKeys2": [
+                4,
+                64,
+                55,
+                54
+            ],
+            "AtlasNodeKeys3": [
+                4,
+                64,
+                55,
+                54
+            ],
+            "AtlasNodeKeys4": [
+                4,
+                64,
+                55,
+                54
+            ],
+            "Tier0": 4,
+            "Tier1": 8,
+            "Tier2": 11,
+            "Tier3": 13,
+            "Tier4": 15,
+            "DDSFile": "Quarry"
+        },
+        {
+            "WorldAreasKey": 1090,
+            "ItemVisualIdentityKey": 4478,
+            "MapsKey": 391,
+            "AtlasRegionsKey": 0,
+            "AtlasNodeKeys0": [
+                80
+            ],
+            "AtlasNodeKeys1": [
+                80
+            ],
+            "AtlasNodeKeys2": [
+                80
+            ],
+            "AtlasNodeKeys3": [
+                80
+            ],
+            "AtlasNodeKeys4": [
+                80
+            ],
+            "Tier0": 3,
+            "Tier1": 7,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "VaultsOfAtziri"
+        },
+        {
+            "WorldAreasKey": 1089,
+            "ItemVisualIdentityKey": 4346,
+            "MapsKey": 391,
+            "AtlasRegionsKey": 0,
+            "AtlasNodeKeys0": [
+                117,
+                152,
+                83,
+                79,
+                59
+            ],
+            "AtlasNodeKeys1": [
+                117,
+                152,
+                83,
+                79,
+                59
+            ],
+            "AtlasNodeKeys2": [
+                117,
+                152,
+                83,
+                79,
+                59,
+                15
+            ],
+            "AtlasNodeKeys3": [
+                117,
+                152,
+                83,
+                79,
+                59,
+                15
+            ],
+            "AtlasNodeKeys4": [
+                147,
+                117,
+                152,
+                83,
+                79,
+                59,
+                15
+            ],
+            "Tier0": 3,
+            "Tier1": 7,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "VaalPyramid"
+        },
+        {
+            "WorldAreasKey": 1088,
+            "ItemVisualIdentityKey": 4435,
+            "MapsKey": 390,
+            "AtlasRegionsKey": 6,
+            "AtlasNodeKeys0": [
+                146
+            ],
+            "AtlasNodeKeys1": [
+                146
+            ],
+            "AtlasNodeKeys2": [
+                119
+            ],
+            "AtlasNodeKeys3": [
+                146,
+                119,
+                32
+            ],
+            "AtlasNodeKeys4": [
+                146,
+                119,
+                32
+            ],
+            "Tier0": 3,
+            "Tier1": 7,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 15,
+            "DDSFile": "OvergrownRuin"
+        },
+        {
+            "WorldAreasKey": 1087,
+            "ItemVisualIdentityKey": 4465,
+            "MapsKey": 389,
+            "AtlasRegionsKey": 5,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [],
+            "AtlasNodeKeys4": [
+                135,
+                114,
+                73,
+                40
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 0,
+            "Tier4": 14,
+            "DDSFile": "Infestation"
+        },
+        {
+            "WorldAreasKey": 1086,
+            "ItemVisualIdentityKey": 4471,
+            "MapsKey": 388,
+            "AtlasRegionsKey": 1,
+            "AtlasNodeKeys0": [
+                153,
+                80,
+                59,
+                48
+            ],
+            "AtlasNodeKeys1": [
+                80,
+                72,
+                59,
+                48
+            ],
+            "AtlasNodeKeys2": [
+                138,
+                80,
+                59,
+                48
+            ],
+            "AtlasNodeKeys3": [
+                138,
+                80,
+                59,
+                48
+            ],
+            "AtlasNodeKeys4": [
+                138,
+                80,
+                59,
+                48
+            ],
+            "Tier0": 2,
+            "Tier1": 6,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Laboratory"
+        },
+        {
+            "WorldAreasKey": 1085,
+            "ItemVisualIdentityKey": 4402,
+            "MapsKey": 387,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [
+                142,
+                134
+            ],
+            "AtlasNodeKeys1": [
+                142,
+                134
+            ],
+            "AtlasNodeKeys2": [
+                142,
+                134
+            ],
+            "AtlasNodeKeys3": [
+                142,
+                134,
+                88
+            ],
+            "AtlasNodeKeys4": [
+                142,
+                134,
+                88
+            ],
+            "Tier0": 3,
+            "Tier1": 6,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 15,
+            "DDSFile": "Bazaar"
+        },
+        {
+            "WorldAreasKey": 1084,
+            "ItemVisualIdentityKey": 4378,
+            "MapsKey": 386,
+            "AtlasRegionsKey": 3,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [
+                105,
+                34,
+                14
+            ],
+            "AtlasNodeKeys4": [
+                105,
+                34,
+                14
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "ArachnidNest"
+        },
+        {
+            "WorldAreasKey": 1083,
+            "ItemVisualIdentityKey": 4400,
+            "MapsKey": 385,
+            "AtlasRegionsKey": 7,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [
+                4,
+                55,
+                53
+            ],
+            "AtlasNodeKeys2": [
+                68,
+                53,
+                36
+            ],
+            "AtlasNodeKeys3": [
+                68,
+                33,
+                10
+            ],
+            "AtlasNodeKeys4": [
+                68,
+                7,
+                10,
+                6
+            ],
+            "Tier0": 0,
+            "Tier1": 9,
+            "Tier2": 12,
+            "Tier3": 13,
+            "Tier4": 16,
+            "DDSFile": "Terrace"
+        },
+        {
+            "WorldAreasKey": 1082,
+            "ItemVisualIdentityKey": 7239,
+            "MapsKey": 384,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [
+                88
+            ],
+            "AtlasNodeKeys1": [
+                88
+            ],
+            "AtlasNodeKeys2": [
+                88
+            ],
+            "AtlasNodeKeys3": [
+                88
+            ],
+            "AtlasNodeKeys4": [
+                88
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 13,
+            "Tier4": 16,
+            "DDSFile": "CaerBlaiddWolfpacksDen"
+        },
+        {
+            "WorldAreasKey": 1081,
+            "ItemVisualIdentityKey": 4401,
+            "MapsKey": 384,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [
+                87
+            ],
+            "AtlasNodeKeys1": [
+                87
+            ],
+            "AtlasNodeKeys2": [
+                87
+            ],
+            "AtlasNodeKeys3": [
+                87,
+                84,
+                65
+            ],
+            "AtlasNodeKeys4": [
+                87,
+                84,
+                65
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 13,
+            "Tier4": 16,
+            "DDSFile": "UndergroundRiver"
+        },
+        {
+            "WorldAreasKey": 1080,
+            "ItemVisualIdentityKey": 5352,
+            "MapsKey": 383,
+            "AtlasRegionsKey": 3,
+            "AtlasNodeKeys0": [
+                90
+            ],
+            "AtlasNodeKeys1": [
+                90
+            ],
+            "AtlasNodeKeys2": [
+                90
+            ],
+            "AtlasNodeKeys3": [
+                90
+            ],
+            "AtlasNodeKeys4": [
+                90
+            ],
+            "Tier0": 4,
+            "Tier1": 7,
+            "Tier2": 11,
+            "Tier3": 12,
+            "Tier4": 15,
+            "DDSFile": "OlmecsSanctum"
+        },
+        {
+            "WorldAreasKey": 1079,
+            "ItemVisualIdentityKey": 4373,
+            "MapsKey": 383,
+            "AtlasRegionsKey": 3,
+            "AtlasNodeKeys0": [
+                120,
+                89,
+                27
+            ],
+            "AtlasNodeKeys1": [
+                120,
+                104,
+                89,
+                27
+            ],
+            "AtlasNodeKeys2": [
+                120,
+                104,
+                89,
+                27
+            ],
+            "AtlasNodeKeys3": [
+                120,
+                104,
+                89,
+                27
+            ],
+            "AtlasNodeKeys4": [
+                120,
+                104,
+                89,
+                27
+            ],
+            "Tier0": 4,
+            "Tier1": 7,
+            "Tier2": 11,
+            "Tier3": 12,
+            "Tier4": 15,
+            "DDSFile": "Catacomb"
+        },
+        {
+            "WorldAreasKey": 1078,
+            "ItemVisualIdentityKey": 7819,
+            "MapsKey": 382,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [
+                92
+            ],
+            "AtlasNodeKeys1": [
+                92
+            ],
+            "AtlasNodeKeys2": [
+                92
+            ],
+            "AtlasNodeKeys3": [
+                92
+            ],
+            "AtlasNodeKeys4": [
+                92
+            ],
+            "Tier0": 3,
+            "Tier1": 7,
+            "Tier2": 10,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "PillarsOfArun"
+        },
+        {
+            "WorldAreasKey": 1077,
+            "ItemVisualIdentityKey": 4356,
+            "MapsKey": 382,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [
+                98,
+                91,
+                34
+            ],
+            "AtlasNodeKeys1": [
+                120,
+                98,
+                91,
+                34
+            ],
+            "AtlasNodeKeys2": [
+                98,
+                91,
+                34
+            ],
+            "AtlasNodeKeys3": [
+                120,
+                98,
+                91,
+                34
+            ],
+            "AtlasNodeKeys4": [
+                98,
+                91,
+                34
+            ],
+            "Tier0": 3,
+            "Tier1": 7,
+            "Tier2": 10,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Dunes"
+        },
+        {
+            "WorldAreasKey": 1076,
+            "ItemVisualIdentityKey": 4365,
+            "MapsKey": 381,
+            "AtlasRegionsKey": 5,
+            "AtlasNodeKeys0": [
+                146,
+                129,
+                115
+            ],
+            "AtlasNodeKeys1": [
+                146,
+                129,
+                115
+            ],
+            "AtlasNodeKeys2": [
+                146,
+                129,
+                115
+            ],
+            "AtlasNodeKeys3": [
+                146,
+                129,
+                115
+            ],
+            "AtlasNodeKeys4": [
+                146,
+                129,
+                115
+            ],
+            "Tier0": 2,
+            "Tier1": 6,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Ramparts"
+        },
+        {
+            "WorldAreasKey": 1075,
+            "ItemVisualIdentityKey": 4414,
+            "MapsKey": 380,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [
+                120,
+                107,
+                102,
+                29
+            ],
+            "AtlasNodeKeys3": [
+                120,
+                107,
+                102,
+                29
+            ],
+            "AtlasNodeKeys4": [
+                107,
+                102,
+                96
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "Residence"
+        },
+        {
+            "WorldAreasKey": 1074,
+            "ItemVisualIdentityKey": 4409,
+            "MapsKey": 379,
+            "AtlasRegionsKey": 5,
+            "AtlasNodeKeys0": [
+                143,
+                42,
+                9
+            ],
+            "AtlasNodeKeys1": [
+                143,
+                135,
+                42,
+                9
+            ],
+            "AtlasNodeKeys2": [
+                97,
+                42,
+                9
+            ],
+            "AtlasNodeKeys3": [
+                97,
+                42,
+                9
+            ],
+            "AtlasNodeKeys4": [
+                97,
+                42,
+                9
+            ],
+            "Tier0": 4,
+            "Tier1": 7,
+            "Tier2": 11,
+            "Tier3": 14,
+            "Tier4": 16,
+            "DDSFile": "Crematorium"
+        },
+        {
+            "WorldAreasKey": 1073,
+            "ItemVisualIdentityKey": 4449,
+            "MapsKey": 378,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [],
+            "AtlasNodeKeys4": [
+                120,
+                94,
+                54,
+                29
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 0,
+            "Tier4": 15,
+            "DDSFile": "CorpseTrench"
+        },
+        {
+            "WorldAreasKey": 1034,
+            "ItemVisualIdentityKey": 4374,
+            "MapsKey": 344,
+            "AtlasRegionsKey": 5,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [
+                143,
+                95,
+                73
+            ],
+            "AtlasNodeKeys3": [
+                143,
+                114,
+                95
+            ],
+            "AtlasNodeKeys4": [
+                143,
+                114,
+                95
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 10,
+            "Tier3": 13,
+            "Tier4": 15,
+            "DDSFile": "Cells"
+        },
+        {
+            "WorldAreasKey": 1071,
+            "ItemVisualIdentityKey": 4407,
+            "MapsKey": 376,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [
+                120,
+                107,
+                150,
+                92,
+                21,
+                17
+            ],
+            "AtlasNodeKeys1": [
+                141,
+                120,
+                107,
+                92,
+                21,
+                17
+            ],
+            "AtlasNodeKeys2": [
+                141,
+                120,
+                112,
+                107,
+                92,
+                21,
+                17
+            ],
+            "AtlasNodeKeys3": [
+                141,
+                120,
+                112,
+                107,
+                92,
+                21,
+                17
+            ],
+            "AtlasNodeKeys4": [
+                141,
+                120,
+                112,
+                107,
+                92,
+                21,
+                17
+            ],
+            "Tier0": 2,
+            "Tier1": 6,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "UndergroundSea"
+        },
+        {
+            "WorldAreasKey": 1110,
+            "ItemVisualIdentityKey": 5279,
+            "MapsKey": 406,
+            "AtlasRegionsKey": 1,
+            "AtlasNodeKeys0": [
+                100
+            ],
+            "AtlasNodeKeys1": [
+                100
+            ],
+            "AtlasNodeKeys2": [
+                100
+            ],
+            "AtlasNodeKeys3": [
+                100
+            ],
+            "AtlasNodeKeys4": [
+                100
+            ],
+            "Tier0": 3,
+            "Tier1": 6,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "PoorjoysAsylum"
+        },
+        {
+            "WorldAreasKey": 1109,
+            "ItemVisualIdentityKey": 4394,
+            "MapsKey": 406,
+            "AtlasRegionsKey": 1,
+            "AtlasNodeKeys0": [
+                125,
+                151,
+                152,
+                99,
+                59
+            ],
+            "AtlasNodeKeys1": [
+                151,
+                152,
+                103,
+                99,
+                59
+            ],
+            "AtlasNodeKeys2": [
+                151,
+                152,
+                103,
+                99,
+                59
+            ],
+            "AtlasNodeKeys3": [
+                151,
+                152,
+                103,
+                99,
+                59,
+                23
+            ],
+            "AtlasNodeKeys4": [
+                151,
+                152,
+                99,
+                59,
+                39
+            ],
+            "Tier0": 3,
+            "Tier1": 6,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "Temple"
+        },
+        {
+            "WorldAreasKey": 1068,
+            "ItemVisualIdentityKey": 5187,
+            "MapsKey": 374,
+            "AtlasRegionsKey": 1,
+            "AtlasNodeKeys0": [
+                103
+            ],
+            "AtlasNodeKeys1": [
+                103
+            ],
+            "AtlasNodeKeys2": [
+                103
+            ],
+            "AtlasNodeKeys3": [
+                103
+            ],
+            "AtlasNodeKeys4": [
+                103
+            ],
+            "Tier0": 0,
+            "Tier1": 5,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "MaelstromOfChaos"
+        },
+        {
+            "WorldAreasKey": 1066,
+            "ItemVisualIdentityKey": 4376,
+            "MapsKey": 373,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [
+                149,
+                120,
+                113,
+                62,
+                54
+            ],
+            "AtlasNodeKeys1": [
+                149,
+                120,
+                113,
+                62,
+                54
+            ],
+            "AtlasNodeKeys2": [
+                149,
+                113,
+                62,
+                94,
+                54
+            ],
+            "AtlasNodeKeys3": [
+                149,
+                113,
+                62,
+                94,
+                54
+            ],
+            "AtlasNodeKeys4": [
+                149,
+                113,
+                62,
+                94,
+                54
+            ],
+            "Tier0": 2,
+            "Tier1": 6,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "DryWoods"
+        },
+        {
+            "WorldAreasKey": 1067,
+            "ItemVisualIdentityKey": 4383,
+            "MapsKey": 374,
+            "AtlasRegionsKey": 1,
+            "AtlasNodeKeys0": [
+                101
+            ],
+            "AtlasNodeKeys1": [
+                153,
+                101,
+                100,
+                59,
+                41
+            ],
+            "AtlasNodeKeys2": [
+                153,
+                101,
+                100,
+                59,
+                41,
+                67
+            ],
+            "AtlasNodeKeys3": [
+                128,
+                153,
+                101,
+                100,
+                59,
+                23
+            ],
+            "AtlasNodeKeys4": [
+                128,
+                153,
+                101,
+                23
+            ],
+            "Tier0": 0,
+            "Tier1": 5,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Atoll"
+        },
+        {
+            "WorldAreasKey": 1064,
+            "ItemVisualIdentityKey": 4368,
+            "MapsKey": 371,
+            "AtlasRegionsKey": 3,
+            "AtlasNodeKeys0": [
+                120,
+                34,
+                24,
+                27
+            ],
+            "AtlasNodeKeys1": [
+                120,
+                90,
+                43,
+                34,
+                24
+            ],
+            "AtlasNodeKeys2": [
+                120,
+                90,
+                43,
+                34,
+                24
+            ],
+            "AtlasNodeKeys3": [
+                120,
+                90,
+                43,
+                34,
+                24
+            ],
+            "AtlasNodeKeys4": [
+                120,
+                90,
+                43,
+                34,
+                24
+            ],
+            "Tier0": 4,
+            "Tier1": 7,
+            "Tier2": 11,
+            "Tier3": 12,
+            "Tier4": 15,
+            "DDSFile": "Thicket"
+        },
+        {
+            "WorldAreasKey": 1058,
+            "ItemVisualIdentityKey": 4382,
+            "MapsKey": 365,
+            "AtlasRegionsKey": 3,
+            "AtlasNodeKeys0": [
+                60,
+                50,
+                34,
+                24
+            ],
+            "AtlasNodeKeys1": [
+                60,
+                50,
+                34,
+                24
+            ],
+            "AtlasNodeKeys2": [
+                60,
+                50,
+                34,
+                24,
+                14
+            ],
+            "AtlasNodeKeys3": [
+                85,
+                60,
+                50,
+                34
+            ],
+            "AtlasNodeKeys4": [
+                85,
+                50,
+                14
+            ],
+            "Tier0": 4,
+            "Tier1": 7,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "Barrows"
+        },
+        {
+            "WorldAreasKey": 1057,
+            "ItemVisualIdentityKey": 4360,
+            "MapsKey": 364,
+            "AtlasRegionsKey": 5,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [],
+            "AtlasNodeKeys4": [
+                148,
+                145,
+                121
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 0,
+            "Tier4": 14,
+            "DDSFile": "SpiderLair"
+        },
+        {
+            "WorldAreasKey": 1059,
+            "ItemVisualIdentityKey": 4454,
+            "MapsKey": 366,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [
+                120,
+                113,
+                150,
+                98
+            ],
+            "AtlasNodeKeys1": [
+                120,
+                113,
+                150,
+                98
+            ],
+            "AtlasNodeKeys2": [
+                113,
+                150,
+                98,
+                94
+            ],
+            "AtlasNodeKeys3": [
+                113,
+                150,
+                98,
+                94
+            ],
+            "AtlasNodeKeys4": [
+                113,
+                150,
+                98,
+                94
+            ],
+            "Tier0": 2,
+            "Tier1": 5,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Mausoleum"
+        },
+        {
+            "WorldAreasKey": 1056,
+            "ItemVisualIdentityKey": 4413,
+            "MapsKey": 363,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [],
+            "AtlasNodeKeys4": [
+                141,
+                112,
+                116,
+                150
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 0,
+            "Tier4": 14,
+            "DDSFile": "IvoryTemple"
+        },
+        {
+            "WorldAreasKey": 1055,
+            "ItemVisualIdentityKey": 4369,
+            "MapsKey": 362,
+            "AtlasRegionsKey": 7,
+            "AtlasNodeKeys0": [
+                110,
+                35,
+                33
+            ],
+            "AtlasNodeKeys1": [
+                110,
+                53,
+                35,
+                33
+            ],
+            "AtlasNodeKeys2": [
+                110,
+                68,
+                35,
+                33
+            ],
+            "AtlasNodeKeys3": [
+                110,
+                68,
+                35,
+                33
+            ],
+            "AtlasNodeKeys4": [
+                110,
+                68,
+                35,
+                33
+            ],
+            "Tier0": 3,
+            "Tier1": 6,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "VaalCity"
+        },
+        {
+            "WorldAreasKey": 1054,
+            "ItemVisualIdentityKey": 4345,
+            "MapsKey": 361,
+            "AtlasRegionsKey": 7,
+            "AtlasNodeKeys0": [
+                109,
+                53,
+                52,
+                35
+            ],
+            "AtlasNodeKeys1": [
+                109,
+                53,
+                52,
+                35
+            ],
+            "AtlasNodeKeys2": [
+                109,
+                68,
+                52,
+                35
+            ],
+            "AtlasNodeKeys3": [
+                109,
+                68,
+                52,
+                35
+            ],
+            "AtlasNodeKeys4": [
+                109,
+                68,
+                52,
+                35
+            ],
+            "Tier0": 3,
+            "Tier1": 7,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 15,
+            "DDSFile": "Sewer"
+        },
+        {
+            "WorldAreasKey": 1052,
+            "ItemVisualIdentityKey": 7818,
+            "MapsKey": 359,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [
+                112
+            ],
+            "AtlasNodeKeys1": [
+                112
+            ],
+            "AtlasNodeKeys2": [
+                112
+            ],
+            "AtlasNodeKeys3": [
+                112
+            ],
+            "AtlasNodeKeys4": [
+                112
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "DoryanisMachinarium"
+        },
+        {
+            "WorldAreasKey": 1051,
+            "ItemVisualIdentityKey": 4425,
+            "MapsKey": 359,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [
+                111
+            ],
+            "AtlasNodeKeys1": [
+                111
+            ],
+            "AtlasNodeKeys2": [
+                141,
+                132,
+                111,
+                150,
+                98,
+                50,
+                17
+            ],
+            "AtlasNodeKeys3": [
+                141,
+                132,
+                111,
+                150,
+                98,
+                50,
+                17
+            ],
+            "AtlasNodeKeys4": [
+                141,
+                132,
+                111,
+                108,
+                98,
+                50,
+                17
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Maze"
+        },
+        {
+            "WorldAreasKey": 1050,
+            "ItemVisualIdentityKey": 4453,
+            "MapsKey": 358,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [
+                133,
+                107,
+                102,
+                49
+            ],
+            "AtlasNodeKeys1": [
+                133,
+                107,
+                102,
+                49
+            ],
+            "AtlasNodeKeys2": [
+                133,
+                107,
+                102,
+                49
+            ],
+            "AtlasNodeKeys3": [
+                133,
+                107,
+                102,
+                49
+            ],
+            "AtlasNodeKeys4": [
+                133,
+                107,
+                102,
+                49
+            ],
+            "Tier0": 2,
+            "Tier1": 5,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Chambers"
+        },
+        {
+            "WorldAreasKey": 1053,
+            "ItemVisualIdentityKey": 4342,
+            "MapsKey": 360,
+            "AtlasRegionsKey": 5,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [
+                140,
+                135,
+                97,
+                9
+            ],
+            "AtlasNodeKeys4": [
+                140,
+                97,
+                82,
+                9
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 13,
+            "Tier4": 15,
+            "DDSFile": "Channel"
+        },
+        {
+            "WorldAreasKey": 1049,
+            "ItemVisualIdentityKey": 4461,
+            "MapsKey": 357,
+            "AtlasRegionsKey": 5,
+            "AtlasNodeKeys0": [
+                148,
+                121,
+                93,
+                28
+            ],
+            "AtlasNodeKeys1": [
+                148,
+                121,
+                93,
+                28
+            ],
+            "AtlasNodeKeys2": [
+                148,
+                121,
+                93,
+                28
+            ],
+            "AtlasNodeKeys3": [
+                148,
+                121,
+                93,
+                28
+            ],
+            "AtlasNodeKeys4": [
+                148,
+                121,
+                93,
+                28
+            ],
+            "Tier0": 2,
+            "Tier1": 5,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "SulphurVents"
+        },
+        {
+            "WorldAreasKey": 1060,
+            "ItemVisualIdentityKey": 4460,
+            "MapsKey": 367,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [
+                144,
+                150,
+                50,
+                17
+            ],
+            "AtlasNodeKeys1": [
+                144,
+                132,
+                150
+            ],
+            "AtlasNodeKeys2": [
+                144,
+                132,
+                150
+            ],
+            "AtlasNodeKeys3": [
+                144,
+                132,
+                150
+            ],
+            "AtlasNodeKeys4": [
+                144,
+                132,
+                108,
+                150
+            ],
+            "Tier0": 2,
+            "Tier1": 5,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Fields"
+        },
+        {
+            "WorldAreasKey": 1048,
+            "ItemVisualIdentityKey": 4466,
+            "MapsKey": 356,
+            "AtlasRegionsKey": 0,
+            "AtlasNodeKeys0": [
+                134,
+                80,
+                30
+            ],
+            "AtlasNodeKeys1": [
+                134,
+                80,
+                51
+            ],
+            "AtlasNodeKeys2": [
+                134,
+                80,
+                15
+            ],
+            "AtlasNodeKeys3": [
+                134,
+                80,
+                15
+            ],
+            "AtlasNodeKeys4": [
+                134,
+                80,
+                15
+            ],
+            "Tier0": 4,
+            "Tier1": 7,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "Baths"
+        },
+        {
+            "WorldAreasKey": 1047,
+            "ItemVisualIdentityKey": 4362,
+            "MapsKey": 355,
+            "AtlasRegionsKey": 3,
+            "AtlasNodeKeys0": [
+                4,
+                29,
+                27
+            ],
+            "AtlasNodeKeys1": [
+                4,
+                57,
+                29
+            ],
+            "AtlasNodeKeys2": [
+                4,
+                57,
+                29
+            ],
+            "AtlasNodeKeys3": [
+                4,
+                57,
+                29
+            ],
+            "AtlasNodeKeys4": [
+                4,
+                57,
+                29
+            ],
+            "Tier0": 5,
+            "Tier1": 8,
+            "Tier2": 12,
+            "Tier3": 14,
+            "Tier4": 16,
+            "DDSFile": "Canyon"
+        },
+        {
+            "WorldAreasKey": 1046,
+            "ItemVisualIdentityKey": 4418,
+            "MapsKey": 354,
+            "AtlasRegionsKey": 6,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [
+                146,
+                81
+            ],
+            "AtlasNodeKeys3": [
+                146,
+                81
+            ],
+            "AtlasNodeKeys4": [
+                146,
+                81
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 15,
+            "DDSFile": "Beacon"
+        },
+        {
+            "WorldAreasKey": 1045,
+            "ItemVisualIdentityKey": 4430,
+            "MapsKey": 353,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [
+                107,
+                104,
+                102,
+                98,
+                90,
+                34,
+                29
+            ],
+            "AtlasNodeKeys1": [
+                107,
+                104,
+                102,
+                98,
+                92,
+                90,
+                34,
+                29
+            ],
+            "AtlasNodeKeys2": [
+                104,
+                98,
+                94,
+                90,
+                34
+            ],
+            "AtlasNodeKeys3": [
+                104,
+                98,
+                94,
+                92,
+                90,
+                34
+            ],
+            "AtlasNodeKeys4": [
+                104,
+                98,
+                96,
+                90,
+                34
+            ],
+            "Tier0": 3,
+            "Tier1": 6,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "Volcano"
+        },
+        {
+            "WorldAreasKey": 1044,
+            "ItemVisualIdentityKey": 4419,
+            "MapsKey": 352,
+            "AtlasRegionsKey": 5,
+            "AtlasNodeKeys0": [
+                129,
+                115,
+                77
+            ],
+            "AtlasNodeKeys1": [
+                129,
+                115,
+                77
+            ],
+            "AtlasNodeKeys2": [
+                129,
+                115,
+                77
+            ],
+            "AtlasNodeKeys3": [
+                129,
+                115,
+                77
+            ],
+            "AtlasNodeKeys4": [
+                145,
+                129,
+                115,
+                106,
+                77
+            ],
+            "Tier0": 2,
+            "Tier1": 6,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Glacier"
+        },
+        {
+            "WorldAreasKey": 1042,
+            "ItemVisualIdentityKey": 7299,
+            "MapsKey": 350,
+            "AtlasRegionsKey": 0,
+            "AtlasNodeKeys0": [
+                126
+            ],
+            "AtlasNodeKeys1": [
+                126
+            ],
+            "AtlasNodeKeys2": [
+                126
+            ],
+            "AtlasNodeKeys3": [
+                126
+            ],
+            "AtlasNodeKeys4": [
+                126
+            ],
+            "Tier0": 5,
+            "Tier1": 9,
+            "Tier2": 12,
+            "Tier3": 14,
+            "Tier4": 16,
+            "DDSFile": "ThePerandusManor"
+        },
+        {
+            "WorldAreasKey": 1040,
+            "ItemVisualIdentityKey": 5627,
+            "MapsKey": 349,
+            "AtlasRegionsKey": 1,
+            "AtlasNodeKeys0": [
+                125
+            ],
+            "AtlasNodeKeys1": [
+                125
+            ],
+            "AtlasNodeKeys2": [
+                125
+            ],
+            "AtlasNodeKeys3": [
+                125
+            ],
+            "AtlasNodeKeys4": [
+                125
+            ],
+            "Tier0": 2,
+            "Tier1": 5,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "WhakawairuaTuahu"
+        },
+        {
+            "WorldAreasKey": 1038,
+            "ItemVisualIdentityKey": 4468,
+            "MapsKey": 348,
+            "AtlasRegionsKey": 4,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [
+                76,
+                66,
+                22,
+                11
+            ],
+            "AtlasNodeKeys2": [
+                76,
+                66,
+                2,
+                22
+            ],
+            "AtlasNodeKeys3": [
+                76,
+                66,
+                2,
+                22
+            ],
+            "AtlasNodeKeys4": [
+                76,
+                3,
+                2,
+                22,
+                37
+            ],
+            "Tier0": 0,
+            "Tier1": 9,
+            "Tier2": 12,
+            "Tier3": 13,
+            "Tier4": 15,
+            "DDSFile": "Courthouse"
+        },
+        {
+            "WorldAreasKey": 1039,
+            "ItemVisualIdentityKey": 4367,
+            "MapsKey": 349,
+            "AtlasRegionsKey": 1,
+            "AtlasNodeKeys0": [
+                143,
+                136,
+                123,
+                153,
+                100,
+                41
+            ],
+            "AtlasNodeKeys1": [
+                143,
+                136,
+                123,
+                153
+            ],
+            "AtlasNodeKeys2": [
+                143,
+                136,
+                123,
+                153
+            ],
+            "AtlasNodeKeys3": [
+                143,
+                136,
+                123,
+                153
+            ],
+            "AtlasNodeKeys4": [
+                143,
+                136,
+                123,
+                153
+            ],
+            "Tier0": 2,
+            "Tier1": 5,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Strand"
+        },
+        {
+            "WorldAreasKey": 1041,
+            "ItemVisualIdentityKey": 4403,
+            "MapsKey": 350,
+            "AtlasRegionsKey": 0,
+            "AtlasNodeKeys0": [
+                122,
+                42,
+                30
+            ],
+            "AtlasNodeKeys1": [
+                122,
+                42,
+                30
+            ],
+            "AtlasNodeKeys2": [
+                122,
+                151,
+                42,
+                30
+            ],
+            "AtlasNodeKeys3": [
+                122,
+                151,
+                42,
+                30,
+                16
+            ],
+            "AtlasNodeKeys4": [
+                122,
+                42,
+                18,
+                16
+            ],
+            "Tier0": 5,
+            "Tier1": 9,
+            "Tier2": 12,
+            "Tier3": 14,
+            "Tier4": 16,
+            "DDSFile": "Chateau"
+        },
+        {
+            "WorldAreasKey": 1037,
+            "ItemVisualIdentityKey": 4463,
+            "MapsKey": 347,
+            "AtlasRegionsKey": 7,
+            "AtlasNodeKeys0": [
+                62,
+                64,
+                33
+            ],
+            "AtlasNodeKeys1": [
+                62,
+                64,
+                53,
+                33
+            ],
+            "AtlasNodeKeys2": [
+                62,
+                64,
+                53,
+                33
+            ],
+            "AtlasNodeKeys3": [
+                62,
+                64,
+                33
+            ],
+            "AtlasNodeKeys4": [
+                62,
+                64,
+                33
+            ],
+            "Tier0": 3,
+            "Tier1": 7,
+            "Tier2": 10,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Antiquary"
+        },
+        {
+            "WorldAreasKey": 1036,
+            "ItemVisualIdentityKey": 4467,
+            "MapsKey": 346,
+            "AtlasRegionsKey": 1,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [
+                103,
+                72,
+                59
+            ],
+            "AtlasNodeKeys4": [
+                103,
+                72,
+                59,
+                39
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "CitySquare"
+        },
+        {
+            "WorldAreasKey": 1035,
+            "ItemVisualIdentityKey": 4332,
+            "MapsKey": 345,
+            "AtlasRegionsKey": 4,
+            "AtlasNodeKeys0": [
+                121,
+                93,
+                77,
+                70
+            ],
+            "AtlasNodeKeys1": [
+                121,
+                93,
+                77,
+                70
+            ],
+            "AtlasNodeKeys2": [
+                121,
+                93,
+                77,
+                70
+            ],
+            "AtlasNodeKeys3": [
+                121,
+                93,
+                77,
+                70
+            ],
+            "AtlasNodeKeys4": [
+                121,
+                93,
+                77,
+                70
+            ],
+            "Tier0": 3,
+            "Tier1": 6,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Arcade"
+        },
+        {
+            "WorldAreasKey": 1072,
+            "ItemVisualIdentityKey": 4455,
+            "MapsKey": 377,
+            "AtlasRegionsKey": 6,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [
+                149,
+                131,
+                74,
+                56
+            ],
+            "AtlasNodeKeys4": [
+                149,
+                131,
+                74
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Tribunal"
+        },
+        {
+            "WorldAreasKey": 1033,
+            "ItemVisualIdentityKey": 4354,
+            "MapsKey": 343,
+            "AtlasRegionsKey": 6,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [
+                74,
+                56,
+                52,
+                35,
+                28
+            ],
+            "AtlasNodeKeys2": [
+                74,
+                56,
+                52,
+                35,
+                28
+            ],
+            "AtlasNodeKeys3": [
+                130,
+                56,
+                52,
+                35,
+                28
+            ],
+            "AtlasNodeKeys4": [
+                130,
+                71,
+                52,
+                35,
+                28
+            ],
+            "Tier0": 0,
+            "Tier1": 6,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "BurialChambers"
+        },
+        {
+            "WorldAreasKey": 1032,
+            "ItemVisualIdentityKey": 4399,
+            "MapsKey": 342,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [
+                142,
+                116,
+                50
+            ],
+            "AtlasNodeKeys2": [
+                142,
+                112,
+                116
+            ],
+            "AtlasNodeKeys3": [
+                142,
+                112,
+                116,
+                65
+            ],
+            "AtlasNodeKeys4": [
+                142,
+                112,
+                116,
+                65
+            ],
+            "Tier0": 0,
+            "Tier1": 6,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 15,
+            "DDSFile": "Quay"
+        },
+        {
+            "WorldAreasKey": 1031,
+            "ItemVisualIdentityKey": 4355,
+            "MapsKey": 341,
+            "AtlasRegionsKey": 6,
+            "AtlasNodeKeys0": [
+                149,
+                113,
+                49
+            ],
+            "AtlasNodeKeys1": [
+                149,
+                113,
+                49
+            ],
+            "AtlasNodeKeys2": [
+                149,
+                113,
+                49
+            ],
+            "AtlasNodeKeys3": [
+                149,
+                113,
+                49
+            ],
+            "AtlasNodeKeys4": [
+                149,
+                113,
+                71,
+                49
+            ],
+            "Tier0": 2,
+            "Tier1": 5,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "DryPeninsula"
+        },
+        {
+            "WorldAreasKey": 1030,
+            "ItemVisualIdentityKey": 4423,
+            "MapsKey": 340,
+            "AtlasRegionsKey": 0,
+            "AtlasNodeKeys0": [
+                117,
+                84,
+                48
+            ],
+            "AtlasNodeKeys1": [
+                117,
+                84,
+                48
+            ],
+            "AtlasNodeKeys2": [
+                117,
+                84,
+                48
+            ],
+            "AtlasNodeKeys3": [
+                117,
+                84,
+                48
+            ],
+            "AtlasNodeKeys4": [
+                117,
+                84,
+                48
+            ],
+            "Tier0": 3,
+            "Tier1": 6,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "SulphurWastes"
+        },
+        {
+            "WorldAreasKey": 1029,
+            "ItemVisualIdentityKey": 4404,
+            "MapsKey": 339,
+            "AtlasRegionsKey": 5,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [
+                139,
+                136,
+                95,
+                73,
+                63
+            ],
+            "AtlasNodeKeys2": [
+                140,
+                139,
+                73,
+                63
+            ],
+            "AtlasNodeKeys3": [
+                140,
+                139,
+                114,
+                73,
+                63
+            ],
+            "AtlasNodeKeys4": [
+                140,
+                139,
+                82,
+                63
+            ],
+            "Tier0": 0,
+            "Tier1": 6,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "Excavation"
+        },
+        {
+            "WorldAreasKey": 1028,
+            "ItemVisualIdentityKey": 4429,
+            "MapsKey": 338,
+            "AtlasRegionsKey": 5,
+            "AtlasNodeKeys0": [
+                148,
+                143,
+                125,
+                63
+            ],
+            "AtlasNodeKeys1": [
+                148,
+                143,
+                135,
+                125
+            ],
+            "AtlasNodeKeys2": [
+                148,
+                140,
+                125
+            ],
+            "AtlasNodeKeys3": [
+                148,
+                140,
+                125
+            ],
+            "AtlasNodeKeys4": [
+                148,
+                140,
+                125
+            ],
+            "Tier0": 2,
+            "Tier1": 5,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Springs"
+        },
+        {
+            "WorldAreasKey": 1027,
+            "ItemVisualIdentityKey": 4456,
+            "MapsKey": 337,
+            "AtlasRegionsKey": 4,
+            "AtlasNodeKeys0": [
+                70,
+                66,
+                63,
+                40,
+                26,
+                22
+            ],
+            "AtlasNodeKeys1": [
+                70,
+                63,
+                40,
+                26,
+                22
+            ],
+            "AtlasNodeKeys2": [
+                70,
+                63,
+                40,
+                26,
+                22
+            ],
+            "AtlasNodeKeys3": [
+                70,
+                63,
+                40,
+                26,
+                22
+            ],
+            "AtlasNodeKeys4": [
+                70,
+                63,
+                40,
+                26,
+                22
+            ],
+            "Tier0": 3,
+            "Tier1": 7,
+            "Tier2": 10,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "Cage"
+        },
+        {
+            "WorldAreasKey": 1026,
+            "ItemVisualIdentityKey": 4470,
+            "MapsKey": 336,
+            "AtlasRegionsKey": 1,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [
+                83,
+                72,
+                48
+            ],
+            "AtlasNodeKeys3": [
+                83,
+                72,
+                48
+            ],
+            "AtlasNodeKeys4": [
+                83,
+                72,
+                48
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Iceberg"
+        },
+        {
+            "WorldAreasKey": 1025,
+            "ItemVisualIdentityKey": 4344,
+            "MapsKey": 335,
+            "AtlasRegionsKey": 5,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [
+                148,
+                135,
+                77
+            ],
+            "AtlasNodeKeys2": [
+                148,
+                135
+            ],
+            "AtlasNodeKeys3": [
+                148,
+                145,
+                135
+            ],
+            "AtlasNodeKeys4": [
+                148,
+                145,
+                135
+            ],
+            "Tier0": 0,
+            "Tier1": 5,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Marshes"
+        },
+        {
+            "WorldAreasKey": 1024,
+            "ItemVisualIdentityKey": 4341,
+            "MapsKey": 334,
+            "AtlasRegionsKey": 5,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [
+                143,
+                136,
+                135
+            ],
+            "AtlasNodeKeys3": [
+                143,
+                136,
+                135,
+                114
+            ],
+            "AtlasNodeKeys4": [
+                143,
+                136,
+                135,
+                114
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 9,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "Cavern"
+        },
+        {
+            "WorldAreasKey": 1023,
+            "ItemVisualIdentityKey": 4340,
+            "MapsKey": 333,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [
+                150,
+                98,
+                50
+            ],
+            "AtlasNodeKeys2": [
+                112,
+                150,
+                98
+            ],
+            "AtlasNodeKeys3": [
+                112,
+                150,
+                98
+            ],
+            "AtlasNodeKeys4": [
+                112,
+                108,
+                150,
+                98
+            ],
+            "Tier0": 0,
+            "Tier1": 5,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "AridLake"
+        },
+        {
+            "WorldAreasKey": 1022,
+            "ItemVisualIdentityKey": 4334,
+            "MapsKey": 332,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [
+                144,
+                84,
+                50,
+                48
+            ],
+            "AtlasNodeKeys1": [
+                144,
+                132,
+                84,
+                48
+            ],
+            "AtlasNodeKeys2": [
+                144,
+                132,
+                84,
+                48
+            ],
+            "AtlasNodeKeys3": [
+                144,
+                132,
+                84,
+                48
+            ],
+            "AtlasNodeKeys4": [
+                144,
+                132,
+                84,
+                48
+            ],
+            "Tier0": 2,
+            "Tier1": 6,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Desert"
+        },
+        {
+            "WorldAreasKey": 1021,
+            "ItemVisualIdentityKey": 4464,
+            "MapsKey": 331,
+            "AtlasRegionsKey": 5,
+            "AtlasNodeKeys0": [
+                136,
+                125,
+                95,
+                73
+            ],
+            "AtlasNodeKeys1": [
+                136,
+                125,
+                95
+            ],
+            "AtlasNodeKeys2": [
+                140,
+                97,
+                125
+            ],
+            "AtlasNodeKeys3": [
+                140,
+                97,
+                125
+            ],
+            "AtlasNodeKeys4": [
+                140,
+                97,
+                125
+            ],
+            "Tier0": 3,
+            "Tier1": 6,
+            "Tier2": 9,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "Pen"
+        },
+        {
+            "WorldAreasKey": 1020,
+            "ItemVisualIdentityKey": 4462,
+            "MapsKey": 330,
+            "AtlasRegionsKey": 1,
+            "AtlasNodeKeys0": [
+                142,
+                116,
+                153
+            ],
+            "AtlasNodeKeys1": [
+                142,
+                116,
+                153
+            ],
+            "AtlasNodeKeys2": [
+                142,
+                116,
+                153
+            ],
+            "AtlasNodeKeys3": [
+                142,
+                116,
+                153
+            ],
+            "AtlasNodeKeys4": [
+                142,
+                116,
+                153
+            ],
+            "Tier0": 2,
+            "Tier1": 5,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Alleyways"
+        },
+        {
+            "WorldAreasKey": 1019,
+            "ItemVisualIdentityKey": 4349,
+            "MapsKey": 329,
+            "AtlasRegionsKey": 5,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [
+                148,
+                139,
+                77,
+                63
+            ],
+            "AtlasNodeKeys4": [
+                148,
+                139,
+                121,
+                106,
+                77,
+                63
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Dungeon"
+        },
+        {
+            "WorldAreasKey": 1018,
+            "ItemVisualIdentityKey": 4350,
+            "MapsKey": 328,
+            "AtlasRegionsKey": 6,
+            "AtlasNodeKeys0": [
+                93,
+                81,
+                74,
+                52,
+                35,
+                28
+            ],
+            "AtlasNodeKeys1": [
+                93,
+                81,
+                52,
+                28
+            ],
+            "AtlasNodeKeys2": [
+                119,
+                93,
+                52,
+                28
+            ],
+            "AtlasNodeKeys3": [
+                119,
+                93,
+                81,
+                52,
+                28
+            ],
+            "AtlasNodeKeys4": [
+                119,
+                93,
+                81,
+                52,
+                32,
+                28
+            ],
+            "Tier0": 2,
+            "Tier1": 6,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Graveyard"
+        },
+        {
+            "WorldAreasKey": 1043,
+            "ItemVisualIdentityKey": 4343,
+            "MapsKey": 351,
+            "AtlasRegionsKey": 0,
+            "AtlasNodeKeys0": [],
+            "AtlasNodeKeys1": [],
+            "AtlasNodeKeys2": [],
+            "AtlasNodeKeys3": [],
+            "AtlasNodeKeys4": [
+                152,
+                80,
+                51,
+                30,
+                15
+            ],
+            "Tier0": 0,
+            "Tier1": 0,
+            "Tier2": 0,
+            "Tier3": 0,
+            "Tier4": 15,
+            "DDSFile": "Grotto"
+        },
+        {
+            "WorldAreasKey": 1017,
+            "ItemVisualIdentityKey": 4336,
+            "MapsKey": 327,
+            "AtlasRegionsKey": 5,
+            "AtlasNodeKeys0": [
+                136,
+                115,
+                77
+            ],
+            "AtlasNodeKeys1": [
+                139,
+                136,
+                115,
+                77
+            ],
+            "AtlasNodeKeys2": [
+                139,
+                136,
+                115,
+                77
+            ],
+            "AtlasNodeKeys3": [
+                145,
+                139,
+                136,
+                115,
+                77
+            ],
+            "AtlasNodeKeys4": [
+                145,
+                139,
+                136,
+                115,
+                106
+            ],
+            "Tier0": 1,
+            "Tier1": 4,
+            "Tier2": 8,
+            "Tier3": 10,
+            "Tier4": 14,
+            "DDSFile": "Beach"
+        },
+        {
+            "WorldAreasKey": 1016,
+            "ItemVisualIdentityKey": 4472,
+            "MapsKey": 326,
+            "AtlasRegionsKey": 6,
+            "AtlasNodeKeys0": [
+                133,
+                102,
+                74,
+                46
+            ],
+            "AtlasNodeKeys1": [
+                133,
+                102,
+                74,
+                56,
+                46
+            ],
+            "AtlasNodeKeys2": [
+                133,
+                102,
+                74,
+                46
+            ],
+            "AtlasNodeKeys3": [
+                133,
+                102,
+                130,
+                46
+            ],
+            "AtlasNodeKeys4": [
+                133,
+                102,
+                130,
+                46
+            ],
+            "Tier0": 2,
+            "Tier1": 6,
+            "Tier2": 9,
+            "Tier3": 11,
+            "Tier4": 14,
+            "DDSFile": "Lookout"
+        },
+        {
+            "WorldAreasKey": 1061,
+            "ItemVisualIdentityKey": 4335,
+            "MapsKey": 368,
+            "AtlasRegionsKey": 2,
+            "AtlasNodeKeys0": [
+                107,
+                116,
+                98
+            ],
+            "AtlasNodeKeys1": [
+                141,
+                107,
+                116
+            ],
+            "AtlasNodeKeys2": [
+                141,
+                112,
+                107,
+                116
+            ],
+            "AtlasNodeKeys3": [
+                141,
+                112,
+                107,
+                116
+            ],
+            "AtlasNodeKeys4": [
+                141,
+                108,
+                107,
+                116
+            ],
+            "Tier0": 1,
+            "Tier1": 4,
+            "Tier2": 8,
+            "Tier3": 10,
+            "Tier4": 14,
+            "DDSFile": "JungleValley"
+        },
+        {
+            "WorldAreasKey": 1062,
+            "ItemVisualIdentityKey": 4351,
+            "MapsKey": 369,
+            "AtlasRegionsKey": 0,
+            "AtlasNodeKeys0": [
+                152,
+                100,
+                42,
+                41,
+                30
+            ],
+            "AtlasNodeKeys1": [
+                152,
+                100,
+                42,
+                41,
+                30
+            ],
+            "AtlasNodeKeys2": [
+                126,
+                152,
+                100,
+                42,
+                41
+            ],
+            "AtlasNodeKeys3": [
+                126,
+                152,
+                100,
+                42,
+                41
+            ],
+            "AtlasNodeKeys4": [
+                100,
+                42,
+                41,
+                18
+            ],
+            "Tier0": 4,
+            "Tier1": 7,
+            "Tier2": 11,
+            "Tier3": 13,
+            "Tier4": 15,
+            "DDSFile": "Phantasmagoria"
+        },
+        {
+            "WorldAreasKey": 1063,
+            "ItemVisualIdentityKey": 4347,
+            "MapsKey": 370,
+            "AtlasRegionsKey": 0,
+            "AtlasNodeKeys0": [
+                151,
+                80,
+                100,
+                59,
+                30
+            ],
+            "AtlasNodeKeys1": [
+                151,
+                80,
+                100,
+                59,
+                51,
+                30
+            ],
+            "AtlasNodeKeys2": [
+                151,
+                80,
+                100,
+                59,
+                30,
+                15
+            ],
+            "AtlasNodeKeys3": [
+                151,
+                80,
+                100,
+                59,
+                30,
+                15
+            ],
+            "AtlasNodeKeys4": [
+                147,
+                80,
+                100,
+                59,
+                30
+            ],
+            "Tier0": 4,
+            "Tier1": 7,
+            "Tier2": 11,
+            "Tier3": 12,
+            "Tier4": 14,
+            "DDSFile": "Academy"
+        },
+        {
+            "WorldAreasKey": 1065,
+            "ItemVisualIdentityKey": 4370,
+            "MapsKey": 372,
+            "AtlasRegionsKey": 1,
+            "AtlasNodeKeys0": [
+                144,
+                125,
+                83
+            ],
+            "AtlasNodeKeys1": [
+                144,
+                125,
+                103,
+                72
+            ],
+            "AtlasNodeKeys2": [
+                144,
+                125,
+                103,
+                72
+            ],
+            "AtlasNodeKeys3": [
+                144,
+                125,
+                103,
+                72
+            ],
+            "AtlasNodeKeys4": [
+                144,
+                125,
+                103,
+                72
+            ],
+            "Tier0": 1,
+            "Tier1": 4,
+            "Tier2": 8,
+            "Tier3": 10,
+            "Tier4": 14,
+            "DDSFile": "Wharf"
+        }
+    ]
